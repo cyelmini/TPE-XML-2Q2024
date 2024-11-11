@@ -1,3 +1,4 @@
+declare option saxon:output "indent=yes";
 
 (: Cargar los documentos XML :)
 let $congressInfo := doc("congress_info.xml")/api-root/congress

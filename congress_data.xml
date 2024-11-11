@@ -1,1 +1,2116 @@
-<?xml version="1.0" encoding="UTF-8"?><data><congress><!-- Nombre del Congreso --><name number="100">100th Congress</name><!-- Período de duración del Congreso --><period from="1987" to="1988"/><!-- URL del Congreso --><url>https://api.congress.gov/v3/congress/100?format=xml</url><!-- Cámaras del Congreso --><chambers><chamber><name>House of Representatives</name><!-- Lista de miembros de la Cámara --><members><member bioguideId="W000779"><name>Wyden, Ron</name><state>Oregon</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/w000779_200.jpg</image_url><period from="1981" to="1996"/></member><member bioguideId="S000148"><name>Schumer, Charles E.</name><state>New York</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/s000148_200.jpg</image_url><period from="1981" to="1999"/></member><member bioguideId="M000133"><name>Markey, Edward J.</name><state>Massachusetts</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/m000133_200.jpg</image_url><period from="1977" to="2013"/></member><member bioguideId="G000386"><name>Grassley, Chuck</name><state>Iowa</state><party>Republican</party><image_url>https://www.congress.gov/img/member/g000386_200.jpg</image_url><period from="1975" to="1981"/></member><member bioguideId="D000563"><name>Durbin, Richard J.</name><state>Illinois</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/d000563_200.jpg</image_url><period from="1983" to="1997"/></member><member bioguideId="C000174"><name>Carper, Thomas R.</name><state>Delaware</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/c000174_200.jpg</image_url><period from="1983" to="1993"/></member><member bioguideId="C000141"><name>Cardin, Benjamin L.</name><state>Maryland</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/c000141_200.jpg</image_url><period from="1987" to="2007"/></member><member bioguideId="J000177"><name>Johnson, Tim</name><state>South Dakota</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/j000177_200.jpg</image_url><period from="1987" to="1997"/></member><member bioguideId="C000178"><name>Carr, Bob</name><state>Michigan</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/c000178_200.jpg</image_url><period from="1975" to="1981"/></member><member bioguideId="C000178"><name>Carr, Bob</name><state>Michigan</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/c000178_200.jpg</image_url><period from="1983" to="1995"/></member><member bioguideId="N000163"><name>Nowak, Henry</name><state>New York</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/n000163_200.jpg</image_url><period from="1975" to="1993"/></member><member bioguideId="S001138"><name>Symms, Steven D.</name><state>Idaho</state><party>Republican</party><image_url>https://www.congress.gov/img/member/s001138_200.jpg</image_url><period from="1973" to="1981"/></member><member bioguideId="R000354"><name>Robinson, Tommy F.</name><state>Arkansas</state><party>Republican</party><image_url>https://www.congress.gov/img/member/r000354_200.jpg</image_url><period from="1985" to="1991"/></member><member bioguideId="I000024"><name>Inhofe, James M.</name><state>Oklahoma</state><party>Republican</party><image_url>https://www.congress.gov/img/member/i000024_200.jpg</image_url><period from="1987" to="1995"/></member><member bioguideId="K000009"><name>Kaptur, Marcy</name><state>Ohio</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/k000009_200.jpg</image_url><period from="1983" to=""/></member><member bioguideId="P000034"><name>Pallone, Frank</name><state>New Jersey</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/p000034_200.jpg</image_url><period from="1987" to=""/></member><member bioguideId="S000522"><name>Smith, Christopher H.</name><state>New Jersey</state><party>Republican</party><image_url>https://www.congress.gov/img/member/s000522_200.jpg</image_url><period from="1981" to=""/></member><member bioguideId="M000687"><name>Mfume, Kweisi</name><state>Maryland</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/m000687_200.jpg</image_url><period from="1987" to="1997"/></member><member bioguideId="M000687"><name>Mfume, Kweisi</name><state>Maryland</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/m000687_200.jpg</image_url><period from="2020" to=""/></member><member bioguideId="H000874"><name>Hoyer, Steny H.</name><state>Maryland</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/116_rp_md_5_hoyer_steny_200.jpg</image_url><period from="1981" to=""/></member><member bioguideId="R000395"><name>Rogers, Harold</name><state>Kentucky</state><party>Republican</party><image_url>https://www.congress.gov/img/member/r000395_200.jpg</image_url><period from="1981" to=""/></member><member bioguideId="P000197"><name>Pelosi, Nancy</name><state>California</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/p000197_200.jpg</image_url><period from="1987" to=""/></member><member bioguideId="P000556"><name>Pryor, David H.</name><state>Arkansas</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/p000556_200.jpg</image_url><period from="1965" to="1973"/></member><member bioguideId="M001088"><name>Murphy, Austin J.</name><state>Pennsylvania</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/m001088_200.jpg</image_url><period from="1977" to="1995"/></member><member bioguideId="B000798"><name>Brennan, Joseph E.</name><state>Maine</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/b000798_200.jpg</image_url><period from="1987" to="1991"/></member><member bioguideId="B000556"><name>Bliley, Tom</name><state>Virginia</state><party>Republican</party><image_url>https://www.congress.gov/img/member/b000556_200.jpg</image_url><period from="1981" to="2001"/></member><member bioguideId="R000229"><name>Richardson, Bill</name><state>New Mexico</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/r000229_200.jpg</image_url><period from="1983" to="1999"/></member><member bioguideId="S001075"><name>Sundquist, Don</name><state>Tennessee</state><party>Republican</party><image_url>https://www.congress.gov/img/member/s001075_200.jpg</image_url><period from="1983" to="1995"/></member><member bioguideId="W000253"><name>Weicker, Lowell P., Jr.</name><state>Connecticut</state><party>Republican</party><image_url>https://www.congress.gov/img/member/w000253_200.jpg</image_url><period from="1969" to="1971"/></member><member bioguideId="B000620"><name>Bonker, Don</name><state>Washington</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/b000620_200.jpg</image_url><period from="1975" to="1989"/></member><member bioguideId="S000094"><name>Sawyer, Tom</name><state>Ohio</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/s000094_200.jpg</image_url><period from="1987" to="2003"/></member><member bioguideId="S000851"><name>Stenholm, Charles W.</name><state>Texas</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/s000851_200.jpg</image_url><period from="1979" to="2005"/></member><member bioguideId="S000394"><name>Shuster, Bud</name><state>Pennsylvania</state><party>Republican</party><image_url>https://www.congress.gov/img/member/s000394_200.jpg</image_url><period from="1973" to="2001"/></member><member bioguideId="S000142"><name>Schroeder, Patricia</name><state>Colorado</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/s000142_200.jpg</image_url><period from="1973" to="1997"/></member><member bioguideId="D000416"><name>Donnelly, Brian J.</name><state>Massachusetts</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/d000416_200.jpg</image_url><period from="1979" to="1993"/></member><member bioguideId="R000072"><name>Ravenel, Arthur, Jr.</name><state>South Carolina</state><party>Republican</party><image_url>https://www.congress.gov/img/member/r000072_200.jpg</image_url><period from="1987" to="1995"/></member><member bioguideId="P000523"><name>Price, David E.</name><state>North Carolina</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/p000523_200.jpg</image_url><period from="1987" to="1995"/></member><member bioguideId="P000523"><name>Price, David E.</name><state>North Carolina</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/p000523_200.jpg</image_url><period from="1997" to="2023"/></member><member bioguideId="Y000033"><name>Young, Don</name><state>Alaska</state><party>Republican</party><image_url>https://www.congress.gov/img/member/116_rp_ak_0_young_don_200.jpg</image_url><period from="1973" to="2022"/></member><member bioguideId="U000031"><name>Upton, Fred</name><state>Michigan</state><party>Republican</party><image_url>https://www.congress.gov/img/member/u000031_200.jpg</image_url><period from="1987" to="2023"/></member><member bioguideId="S000393"><name>Shumway, Norman D.</name><state>California</state><party>Republican</party><image_url>https://www.congress.gov/img/member/s000393_200.jpg</image_url><period from="1979" to="1991"/></member><member bioguideId="S000320"><name>Shelby, Richard C.</name><state>Alabama</state><party>Republican</party><image_url>https://www.congress.gov/img/member/s000320_200.jpg</image_url><period from="1979" to="1987"/></member><member bioguideId="C000754"><name>Cooper, Jim</name><state>Tennessee</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/c000754_200.jpg</image_url><period from="1983" to="1995"/></member><member bioguideId="C000754"><name>Cooper, Jim</name><state>Tennessee</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/c000754_200.jpg</image_url><period from="2003" to="2023"/></member><member bioguideId="D000191"><name>DeFazio, Peter A.</name><state>Oregon</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/d000191_200.jpg</image_url><period from="1987" to="2023"/></member><member bioguideId="K000306"><name>Kolbe, Jim</name><state>Arizona</state><party>Republican</party><image_url>https://www.congress.gov/img/member/k000306_200.jpg</image_url><period from="1985" to="2007"/></member><member bioguideId="H000878"><name>Hubbard, Carroll, Jr.</name><state>Kentucky</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/h000878_200.jpg</image_url><period from="1975" to="1993"/></member><member bioguideId="M001120"><name>Murtha, John P.</name><state>Pennsylvania</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/m001120_200.jpg</image_url><period from="1973" to="2010"/></member><member bioguideId="D000217"><name>DeLay, Tom</name><state>Texas</state><party>Republican</party><image_url>https://www.congress.gov/img/member/d000217_200.jpg</image_url><period from="1985" to="2007"/></member><member bioguideId="D000294"><name>DeWine, Mike</name><state>Ohio</state><party>Republican</party><image_url>https://www.congress.gov/img/member/d000294_200.jpg</image_url><period from="1983" to="1991"/></member><member bioguideId="D000064"><name>Daschle, Thomas A.</name><state>South Dakota</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/d000064_200.jpg</image_url><period from="1979" to="1987"/></member><member bioguideId="R000243"><name>Ridge, Thomas J.</name><state>Pennsylvania</state><party>Republican</party><image_url>https://www.congress.gov/img/member/r000243_200.jpg</image_url><period from="1983" to="1995"/></member><member bioguideId="R000189"><name>Rhodes, John J., III</name><state>Arizona</state><party>Republican</party><image_url>https://www.congress.gov/img/member/r000189_200.jpg</image_url><period from="1987" to="1993"/></member><member bioguideId="R000146"><name>Reid, Harry</name><state>Nevada</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/r000146_200.jpg</image_url><period from="1983" to="1987"/></member><member bioguideId="R000141"><name>Regula, Ralph</name><state>Ohio</state><party>Republican</party><image_url>https://www.congress.gov/img/member/r000141_200.jpg</image_url><period from="1973" to="2009"/></member><member bioguideId="R000080"><name>Ray, Richard B.</name><state>Georgia</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/r000080_200.jpg</image_url><period from="1983" to="1993"/></member><member bioguideId="R000053"><name>Rangel, Charles B.</name><state>New York</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/r000053_200.jpg</image_url><period from="1971" to="2017"/></member><member bioguideId="R000011"><name>Rahall, Nick J., II</name><state>West Virginia</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/r000011_200.jpg</image_url><period from="1977" to="2015"/></member><member bioguideId="Q000013"><name>Quillen, James H. (Jimmy)</name><state>Tennessee</state><party>Republican</party><image_url>https://www.congress.gov/img/member/q000013_200.jpg</image_url><period from="1963" to="1997"/></member><member bioguideId="Q000007"><name>Quayle, Dan</name><state>Indiana</state><party>Republican</party><image_url>https://www.congress.gov/img/member/q000007_200.jpg</image_url><period from="1977" to="1981"/></member><member bioguideId="P000574"><name>Pursell, Carl D.</name><state>Michigan</state><party>Republican</party><image_url>https://www.congress.gov/img/member/p000574_200.jpg</image_url><period from="1977" to="1993"/></member><member bioguideId="P000522"><name>Price, Melvin</name><state>Illinois</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/p000522_200.jpg</image_url><period from="1945" to="1989"/></member><member bioguideId="P000513"><name>Pressler, Larry</name><state>South Dakota</state><party>Republican</party><image_url>https://www.congress.gov/img/member/p000513_200.jpg</image_url><period from="1975" to="1979"/></member><member bioguideId="P000444"><name>Porter, John Edward</name><state>Illinois</state><party>Republican</party><image_url>https://www.congress.gov/img/member/p000444_200.jpg</image_url><period from="1979" to="2001"/></member><member bioguideId="P000328"><name>Pickle, J. J.</name><state>Texas</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/p000328_200.jpg</image_url><period from="1963" to="1995"/></member><member bioguideId="P000326"><name>Pickett, Owen B.</name><state>Virginia</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/p000326_200.jpg</image_url><period from="1987" to="2001"/></member><member bioguideId="P000265"><name>Petri, Thomas E.</name><state>Wisconsin</state><party>Republican</party><image_url>https://www.congress.gov/img/member/p000265_200.jpg</image_url><period from="1979" to="2015"/></member><member bioguideId="P000229"><name>Perkins, Carl C.</name><state>Kentucky</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/p000229_200.jpg</image_url><period from="1984" to="1993"/></member><member bioguideId="P000218"><name>Pepper, Claude</name><state>Florida</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/p000218_200.jpg</image_url><period from="1963" to="1991"/></member><member bioguideId="P000215"><name>Penny, Timothy J.</name><state>Minnesota</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/p000215_200.jpg</image_url><period from="1983" to="1995"/></member><member bioguideId="P000170"><name>Pease, Donald J.</name><state>Ohio</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/p000170_200.jpg</image_url><period from="1977" to="1993"/></member><member bioguideId="P000152"><name>Payne, Lewis F., Jr.</name><state>Virginia</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/p000152_200.jpg</image_url><period from="1987" to="1997"/></member><member bioguideId="P000112"><name>Patterson, Elizabeth</name><state>South Carolina</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/p000112_200.jpg</image_url><period from="1987" to="1993"/></member><member bioguideId="P000097"><name>Pashayan, Charles, Jr.</name><state>California</state><party>Republican</party><image_url>https://www.congress.gov/img/member/p000097_200.jpg</image_url><period from="1979" to="1991"/></member><member bioguideId="P000080"><name>Parris, Stanford E. (Stan)</name><state>Virginia</state><party>Republican</party><image_url>https://www.congress.gov/img/member/p000080_200.jpg</image_url><period from="1973" to="1975"/></member><member bioguideId="P000080"><name>Parris, Stanford E. (Stan)</name><state>Virginia</state><party>Republican</party><image_url>https://www.congress.gov/img/member/p000080_200.jpg</image_url><period from="1981" to="1991"/></member><member bioguideId="P000047"><name>Panetta, Leon</name><state>California</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/p000047_200.jpg</image_url><period from="1977" to="1995"/></member><member bioguideId="P000005"><name>Packard, Ron</name><state>California</state><party>Republican</party><image_url>https://www.congress.gov/img/member/p000005_200.jpg</image_url><period from="1983" to="2001"/></member><member bioguideId="O000163"><name>Oxley, Michael G.</name><state>Ohio</state><party>Republican</party><image_url>https://www.congress.gov/img/member/o000163_200.jpg</image_url><period from="1981" to="2007"/></member><member bioguideId="O000156"><name>Owens, Wayne</name><state>Utah</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/o000156_200.jpg</image_url><period from="1973" to="1975"/></member><member bioguideId="O000156"><name>Owens, Wayne</name><state>Utah</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/o000156_200.jpg</image_url><period from="1987" to="1993"/></member><member bioguideId="O000159"><name>Owens, Major R.</name><state>New York</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/o000159_200.jpg</image_url><period from="1983" to="2007"/></member><member bioguideId="O000107"><name>Ortiz, Solomon P.</name><state>Texas</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/o000107_200.jpg</image_url><period from="1983" to="2011"/></member><member bioguideId="O000069"><name>Olin, James R.</name><state>Virginia</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/o000069_200.jpg</image_url><period from="1983" to="1993"/></member><member bioguideId="O000007"><name>Obey, David R.</name><state>Wisconsin</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/o000007_200.jpg</image_url><period from="1969" to="2011"/></member><member bioguideId="O000006"><name>Oberstar, James L.</name><state>Minnesota</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/o000006_200.jpg</image_url><period from="1975" to="2011"/></member><member bioguideId="O000001"><name>Oakar, Mary Rose</name><state>Ohio</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/o000001_200.jpg</image_url><period from="1977" to="1993"/></member><member bioguideId="B000401"><name>Bentsen, Lloyd M.</name><state>Texas</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/b000401_200.jpg</image_url><period from="1947" to="1955"/></member><member bioguideId="Y000031"><name>Young, C. W. Bill</name><state>Florida</state><party>Republican</party><image_url>https://www.congress.gov/img/member/y000031_200.jpg</image_url><period from="1971" to="2013"/></member><member bioguideId="Y000014"><name>Yatron, Gus</name><state>Pennsylvania</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/y000014_200.jpg</image_url><period from="1969" to="1993"/></member><member bioguideId="Y000013"><name>Yates, Sidney R.</name><state>Illinois</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/y000013_200.jpg</image_url><period from="1949" to="1963"/></member><member bioguideId="Y000013"><name>Yates, Sidney R.</name><state>Illinois</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/y000013_200.jpg</image_url><period from="1965" to="1999"/></member><member bioguideId="W000781"><name>Wylie, Chalmers P.</name><state>Ohio</state><party>Republican</party><image_url>https://www.congress.gov/img/member/w000781_200.jpg</image_url><period from="1967" to="1993"/></member><member bioguideId="W000763"><name>Wright, James C., Jr.</name><state>Texas</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/w000763_200.jpg</image_url><period from="1955" to="1991"/></member><member bioguideId="W000752"><name>Wortley, George C.</name><state>New York</state><party>Republican</party><image_url>https://www.congress.gov/img/member/w000752_200.jpg</image_url><period from="1981" to="1989"/></member><member bioguideId="W000682"><name>Wolpe, Howard E.</name><state>Michigan</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/w000682_200.jpg</image_url><period from="1979" to="1993"/></member><member bioguideId="W000672"><name>Wolf, Frank R.</name><state>Virginia</state><party>Republican</party><image_url>https://www.congress.gov/img/member/w000672_200.jpg</image_url><period from="1981" to="2015"/></member><member bioguideId="W000654"><name>Wise, Robert E., Jr.</name><state>West Virginia</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/w000654_200.jpg</image_url><period from="1983" to="2001"/></member><member bioguideId="W000647"><name>Wirth, Timothy</name><state>Colorado</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/w000647_200.jpg</image_url><period from="1975" to="1987"/></member><member bioguideId="W000570"><name>Wilson, Charles</name><state>Texas</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/w000570_200.jpg</image_url><period from="1973" to="1997"/></member><member bioguideId="W000520"><name>Williams, Pat</name><state>Montana</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/w000520_200.jpg</image_url><period from="1979" to="1997"/></member><member bioguideId="W000428"><name>Whitten, Jamie L.</name><state>Mississippi</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/w000428_200.jpg</image_url><period from="1941" to="1947"/></member><member bioguideId="W000428"><name>Whitten, Jamie L.</name><state>Mississippi</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/w000428_200.jpg</image_url><period from="1973" to="1995"/></member><member bioguideId="W000426"><name>Whittaker, Bob</name><state>Kansas</state><party>Republican</party><image_url>https://www.congress.gov/img/member/w000426_200.jpg</image_url><period from="1979" to="1991"/></member><member bioguideId="W000326"><name>Wheat, Alan</name><state>Missouri</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/w000326_200.jpg</image_url><period from="1983" to="1995"/></member><member bioguideId="W000268"><name>Weldon, Curt</name><state>Pennsylvania</state><party>Republican</party><image_url>https://www.congress.gov/img/member/w000268_200.jpg</image_url><period from="1987" to="2007"/></member><member bioguideId="W000258"><name>Weiss, Ted</name><state>New York</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/w000258_200.jpg</image_url><period from="1977" to="1993"/></member><member bioguideId="W000237"><name>Weber, Vin</name><state>Minnesota</state><party>Republican</party><image_url>https://www.congress.gov/img/member/w000237_200.jpg</image_url><period from="1981" to="1993"/></member><member bioguideId="W000215"><name>Waxman, Henry A.</name><state>California</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/w000215_200.jpg</image_url><period from="1975" to="2015"/></member><member bioguideId="W000194"><name>Watkins, Wes</name><state>Oklahoma</state><party>Republican</party><image_url>https://www.congress.gov/img/member/w000194_200.jpg</image_url><period from="1977" to="1991"/></member><member bioguideId="W000194"><name>Watkins, Wes</name><state>Oklahoma</state><party>Republican</party><image_url>https://www.congress.gov/img/member/w000194_200.jpg</image_url><period from="1997" to="2003"/></member><member bioguideId="W000068"><name>Walker, Robert S.</name><state>Pennsylvania</state><party>Republican</party><image_url>https://www.congress.gov/img/member/w000068_200.jpg</image_url><period from="1977" to="1997"/></member><member bioguideId="W000044"><name>Walgren, Doug</name><state>Pennsylvania</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/w000044_200.jpg</image_url><period from="1977" to="1991"/></member><member bioguideId="V000124"><name>Vucanovich, Barbara F.</name><state>Nevada</state><party>Republican</party><image_url>https://www.congress.gov/img/member/v000124_200.jpg</image_url><period from="1983" to="1997"/></member><member bioguideId="V000112"><name>Volkmer, Harold L.</name><state>Missouri</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/v000112_200.jpg</image_url><period from="1977" to="1997"/></member><member bioguideId="V000108"><name>Visclosky, Peter J.</name><state>Indiana</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/v000108_200.jpg</image_url><period from="1985" to="2021"/></member><member bioguideId="V000027"><name>Vander Jagt, Guy</name><state>Michigan</state><party>Republican</party><image_url>https://www.congress.gov/img/member/v000027_200.jpg</image_url><period from="1965" to="1993"/></member><member bioguideId="V000006"><name>Valentine, Tim</name><state>North Carolina</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/v000006_200.jpg</image_url><period from="1983" to="1995"/></member><member bioguideId="U000001"><name>Udall, Morris K.</name><state>Arizona</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/u000001_200.jpg</image_url><period from="1961" to="1993"/></member><member bioguideId="T000367"><name>Trible, Paul S., Jr.</name><state>Virginia</state><party>Republican</party><image_url>https://www.congress.gov/img/member/t000367_200.jpg</image_url><period from="1977" to="1983"/></member><member bioguideId="T000356"><name>Traxler, Bob</name><state>Michigan</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/t000356_200.jpg</image_url><period from="1973" to="1993"/></member><member bioguideId="T000350"><name>Traficant, James A., Jr.</name><state>Ohio</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/t000350_200.jpg</image_url><period from="1985" to="2002"/></member><member bioguideId="T000326"><name>Towns, Edolphus</name><state>New York</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/t000326_200.jpg</image_url><period from="1983" to="2013"/></member><member bioguideId="T000317"><name>Torricelli, Robert G.</name><state>New Jersey</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/t000317_200.jpg</image_url><period from="1983" to="1997"/></member><member bioguideId="T000316"><name>Torres, Estaban Edward</name><state>California</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/t000316_200.jpg</image_url><period from="1983" to="1999"/></member><member bioguideId="T000184"><name>Thomas, Lindsay</name><state>Georgia</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/t000184_200.jpg</image_url><period from="1983" to="1993"/></member><member bioguideId="T000188"><name>Thomas, William M.</name><state>California</state><party>Republican</party><image_url>https://www.congress.gov/img/member/t000188_200.jpg</image_url><period from="1979" to="2007"/></member><member bioguideId="T000075"><name>Taylor, G.</name><state>Missouri</state><party>Republican</party><image_url>https://www.congress.gov/img/member/t000075_200.jpg</image_url><period from="1973" to="1989"/></member><member bioguideId="T000058"><name>Tauzin, W. J. (Billy)</name><state>Louisiana</state><party>Republican</party><image_url>https://www.congress.gov/img/member/t000058_200.jpg</image_url><period from="1979" to="2005"/></member><member bioguideId="T000053"><name>Tauke, Thomas Joseph</name><state>Iowa</state><party>Republican</party><image_url>https://www.congress.gov/img/member/t000053_200.jpg</image_url><period from="1979" to="1991"/></member><member bioguideId="T000034"><name>Tallon, Robert M. (Robin)</name><state>South Carolina</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/t000034_200.jpg</image_url><period from="1983" to="1993"/></member><member bioguideId="S001139"><name>Synar, Mike</name><state>Oklahoma</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/s001139_200.jpg</image_url><period from="1979" to="1995"/></member><member bioguideId="S001122"><name>Swindall, Patrick L.</name><state>Georgia</state><party>Republican</party><image_url>https://www.congress.gov/img/member/s001122_200.jpg</image_url><period from="1985" to="1989"/></member><member bioguideId="S001115"><name>Swift, Al</name><state>Washington</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/s001115_200.jpg</image_url><period from="1979" to="1995"/></member><member bioguideId="S001101"><name>Sweeney, David McCann</name><state>Texas</state><party>Republican</party><image_url>https://www.congress.gov/img/member/s001101_200.jpg</image_url><period from="1985" to="1989"/></member><member bioguideId="S001077"><name>Sunia, Foto I. F.</name><state>American Samoa</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/s001077_200.jpg</image_url><period from="1981" to="1989"/></member><member bioguideId="S001044"><name>Stump, Bob</name><state>Arizona</state><party>Republican</party><image_url>https://www.congress.gov/img/member/s001044_200.jpg</image_url><period from="1977" to="2003"/></member><member bioguideId="S001040"><name>Studds, Gerry E.</name><state>Massachusetts</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/s001040_200.jpg</image_url><period from="1973" to="1997"/></member><member bioguideId="S000997"><name>Stratton, Samuel S.</name><state>New York</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/s000997_200.jpg</image_url><period from="1959" to="1989"/></member><member bioguideId="S000948"><name>Stokes, Louis</name><state>Ohio</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/s000948_200.jpg</image_url><period from="1969" to="1999"/></member><member bioguideId="S000810"><name>Stark, Fortney Pete</name><state>California</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/s000810_200.jpg</image_url><period from="1973" to="2013"/></member><member bioguideId="S000795"><name>Stangeland, Arlan</name><state>Minnesota</state><party>Republican</party><image_url>https://www.congress.gov/img/member/s000795_200.jpg</image_url><period from="1977" to="1991"/></member><member bioguideId="S000785"><name>Stallings, Richard H.</name><state>Idaho</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/s000785_200.jpg</image_url><period from="1985" to="1993"/></member><member bioguideId="S000779"><name>Staggers, Harley O., Jr.</name><state>West Virginia</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/s000779_200.jpg</image_url><period from="1983" to="1993"/></member><member bioguideId="S000762"><name>St Germain, Fernand J.</name><state>Rhode Island</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/s000762_200.jpg</image_url><period from="1961" to="1989"/></member><member bioguideId="S000749"><name>Spratt, John M., Jr.</name><state>South Carolina</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/s000749_200.jpg</image_url><period from="1983" to="2011"/></member><member bioguideId="S000718"><name>Spence, Floyd</name><state>South Carolina</state><party>Republican</party><image_url>https://www.congress.gov/img/member/s000718_200.jpg</image_url><period from="1971" to="2001"/></member><member bioguideId="S000675"><name>Solomon, Gerald B. H.</name><state>New York</state><party>Republican</party><image_url>https://www.congress.gov/img/member/s000675_200.jpg</image_url><period from="1979" to="1999"/></member><member bioguideId="S000673"><name>Solarz, Stephen J.</name><state>New York</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/s000673_200.jpg</image_url><period from="1975" to="1993"/></member><member bioguideId="S000663"><name>Snowe, Olympia J.</name><state>Maine</state><party>Republican</party><image_url>https://www.congress.gov/img/member/s000663_200.jpg</image_url><period from="1979" to="1995"/></member><member bioguideId="S000622"><name>Smith, Virginia</name><state>Nebraska</state><party>Republican</party><image_url>https://www.congress.gov/img/member/s000622_200.jpg</image_url><period from="1975" to="1991"/></member><member bioguideId="S000607"><name>Smith, Robert</name><state>Oregon</state><party>Republican</party><image_url>https://www.congress.gov/img/member/s000607_200.jpg</image_url><period from="1983" to="1995"/></member><member bioguideId="S000607"><name>Smith, Robert</name><state>Oregon</state><party>Republican</party><image_url>https://www.congress.gov/img/member/s000607_200.jpg</image_url><period from="1997" to="1999"/></member><member bioguideId="S000606"><name>Smith, Bob</name><state>New Hampshire</state><party>Republican</party><image_url>https://www.congress.gov/img/member/s000606_200.jpg</image_url><period from="1985" to="1991"/></member><member bioguideId="S000596"><name>Smith, Neal Edward</name><state>Iowa</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/s000596_200.jpg</image_url><period from="1959" to="1995"/></member><member bioguideId="S000586"><name>Smith, Lawrence</name><state>Florida</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/s000586_200.jpg</image_url><period from="1983" to="1993"/></member><member bioguideId="S000583"><name>Smith, Lamar</name><state>Texas</state><party>Republican</party><image_url>https://www.congress.gov/img/member/s000583_200.jpg</image_url><period from="1987" to="2019"/></member><member bioguideId="S000527"><name>Smith, Denny</name><state>Oregon</state><party>Republican</party><image_url>https://www.congress.gov/img/member/s000527_200.jpg</image_url><period from="1981" to="1991"/></member><member bioguideId="S000480"><name>Slaughter, Louise McIntosh</name><state>New York</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/s000480_200.jpg</image_url><period from="1987" to="2018"/></member><member bioguideId="S000479"><name>Slaughter, D. French, Jr.</name><state>Virginia</state><party>Republican</party><image_url>https://www.congress.gov/img/member/s000479_200.jpg</image_url><period from="1985" to="1993"/></member><member bioguideId="S000477"><name>Slattery, Jim</name><state>Kansas</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/s000477_200.jpg</image_url><period from="1983" to="1995"/></member><member bioguideId="S000465"><name>Skelton, Ike</name><state>Missouri</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/s000465_200.jpg</image_url><period from="1977" to="2011"/></member><member bioguideId="S000463"><name>Skeen, Joe</name><state>New Mexico</state><party>Republican</party><image_url>https://www.congress.gov/img/member/s000463_200.jpg</image_url><period from="1981" to="2003"/></member><member bioguideId="S000462"><name>Skaggs, David E.</name><state>Colorado</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/s000462_200.jpg</image_url><period from="1987" to="1999"/></member><member bioguideId="S000453"><name>Sisisky, Norman</name><state>Virginia</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/s000453_200.jpg</image_url><period from="1983" to="2001"/></member><member bioguideId="S000423"><name>Simon, Paul</name><state>Illinois</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/s000423_200.jpg</image_url><period from="1975" to="1985"/></member><member bioguideId="S000407"><name>Sikorski, Gerry E.</name><state>Minnesota</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/s000407_200.jpg</image_url><period from="1983" to="1993"/></member><member bioguideId="S001144"><name>Shays, Christopher</name><state>Connecticut</state><party>Republican</party><image_url>https://www.congress.gov/img/member/s001144_200.jpg</image_url><period from="1987" to="2009"/></member><member bioguideId="S000303"><name>Shaw, E. Clay, Jr.</name><state>Florida</state><party>Republican</party><image_url>https://www.congress.gov/img/member/s000303_200.jpg</image_url><period from="1981" to="2007"/></member><member bioguideId="S000294"><name>Sharp, Philip R.</name><state>Indiana</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/s000294_200.jpg</image_url><period from="1975" to="1995"/></member><member bioguideId="S000244"><name>Sensenbrenner, F. James, Jr.</name><state>Wisconsin</state><party>Republican</party><image_url>https://www.congress.gov/img/member/s000244_200.jpg</image_url><period from="1979" to="2021"/></member><member bioguideId="S000146"><name>Schulze, Richard T.</name><state>Pennsylvania</state><party>Republican</party><image_url>https://www.congress.gov/img/member/s000146_200.jpg</image_url><period from="1975" to="1993"/></member><member bioguideId="S000143"><name>Schuette, Bill</name><state>Michigan</state><party>Republican</party><image_url>https://www.congress.gov/img/member/s000143_200.jpg</image_url><period from="1985" to="1991"/></member><member bioguideId="S000136"><name>Schneider, Claudine</name><state>Rhode Island</state><party>Republican</party><image_url>https://www.congress.gov/img/member/s000136_200.jpg</image_url><period from="1981" to="1991"/></member><member bioguideId="S000124"><name>Scheuer, James H.</name><state>New York</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/s000124_200.jpg</image_url><period from="1965" to="1973"/></member><member bioguideId="S000124"><name>Scheuer, James H.</name><state>New York</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/s000124_200.jpg</image_url><period from="1975" to="1993"/></member><member bioguideId="S000109"><name>Schaefer, Dan</name><state>Colorado</state><party>Republican</party><image_url>https://www.congress.gov/img/member/s000109_200.jpg</image_url><period from="1983" to="1999"/></member><member bioguideId="S000097"><name>Saxton, Jim</name><state>New Jersey</state><party>Republican</party><image_url>https://www.congress.gov/img/member/s000097_200.jpg</image_url><period from="1985" to="2009"/></member><member bioguideId="S000081"><name>Savage, Gus</name><state>Illinois</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/s000081_200.jpg</image_url><period from="1981" to="1993"/></member><member bioguideId="S000064"><name>Sarbanes, Paul S.</name><state>Maryland</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/s000064_200.jpg</image_url><period from="1971" to="1977"/></member><member bioguideId="S000014"><name>Saiki, Patricia</name><state>Hawaii</state><party>Republican</party><image_url>https://www.congress.gov/img/member/s000014_200.jpg</image_url><period from="1987" to="1991"/></member><member bioguideId="S000005"><name>Sabo, Martin Olav</name><state>Minnesota</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/s000005_200.jpg</image_url><period from="1979" to="2007"/></member><member bioguideId="R000543"><name>Russo, Martin A.</name><state>Illinois</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/r000543_200.jpg</image_url><period from="1975" to="1993"/></member><member bioguideId="R000485"><name>Roybal, Edward R.</name><state>California</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/r000485_200.jpg</image_url><period from="1963" to="1993"/></member><member bioguideId="R000482"><name>Rowland, John G.</name><state>Connecticut</state><party>Republican</party><image_url>https://www.congress.gov/img/member/r000482_200.jpg</image_url><period from="1985" to="1991"/></member><member bioguideId="R000481"><name>Rowland, J. Roy</name><state>Georgia</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/r000481_200.jpg</image_url><period from="1983" to="1995"/></member><member bioguideId="R000465"><name>Roukema, Marge</name><state>New Jersey</state><party>Republican</party><image_url>https://www.congress.gov/img/member/r000465_200.jpg</image_url><period from="1981" to="2003"/></member><member bioguideId="R000459"><name>Roth, Toby</name><state>Wisconsin</state><party>Republican</party><image_url>https://www.congress.gov/img/member/r000459_200.jpg</image_url><period from="1979" to="1997"/></member><member bioguideId="R000458"><name>Rostenkowski, Dan</name><state>Illinois</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/r000458_200.jpg</image_url><period from="1959" to="1995"/></member><member bioguideId="R000436"><name>Rose, Charlie</name><state>North Carolina</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/r000436_200.jpg</image_url><period from="1973" to="1997"/></member><member bioguideId="R000384"><name>Roemer, Buddy</name><state>Louisiana</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/r000384_200.jpg</image_url><period from="1981" to="1989"/></member><member bioguideId="R000383"><name>Roe, Robert A.</name><state>New Jersey</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/r000383_200.jpg</image_url><period from="1969" to="1993"/></member><member bioguideId="R000374"><name>Rodino, Peter W., Jr.</name><state>New Jersey</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/r000374_200.jpg</image_url><period from="1949" to="1989"/></member><member bioguideId="R000307"><name>Roberts, Pat</name><state>Kansas</state><party>Republican</party><image_url>https://www.congress.gov/img/member/r000307_200.jpg</image_url><period from="1981" to="1997"/></member><member bioguideId="R000277"><name>Ritter, Don</name><state>Pennsylvania</state><party>Republican</party><image_url>https://www.congress.gov/img/member/r000277_200.jpg</image_url><period from="1979" to="1993"/></member><member bioguideId="R000262"><name>Rinaldo, Matthew J.</name><state>New Jersey</state><party>Republican</party><image_url>https://www.congress.gov/img/member/r000262_200.jpg</image_url><period from="1973" to="1993"/></member><member bioguideId="R000249"><name>Riegle, Donald W., Jr.</name><state>Michigan</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/r000249_200.jpg</image_url><period from="1967" to="1977"/></member><member bioguideId="B000780"><name>Breaux, John B.</name><state>Louisiana</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/b000780_200.jpg</image_url><period from="1971" to="1987"/></member><member bioguideId="B000711"><name>Boxer, Barbara</name><state>California</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/b000711_200.jpg</image_url><period from="1983" to="1993"/></member><member bioguideId="B000666"><name>Boulter, Beau</name><state>Texas</state><party>Republican</party><image_url>https://www.congress.gov/img/member/b000666_200.jpg</image_url><period from="1985" to="1989"/></member><member bioguideId="B000657"><name>Boucher, Rick</name><state>Virginia</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/b000657_200.jpg</image_url><period from="1983" to="2011"/></member><member bioguideId="B000648"><name>Bosco, Douglas H.</name><state>California</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/b000648_200.jpg</image_url><period from="1983" to="1991"/></member><member bioguideId="B000644"><name>Borski, Robert A.</name><state>Pennsylvania</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/b000644_200.jpg</image_url><period from="1983" to="2003"/></member><member bioguideId="B000619"><name>Bonior, David E.</name><state>Michigan</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/b000619_200.jpg</image_url><period from="1977" to="2003"/></member><member bioguideId="B000615"><name>Boner, William H.</name><state>Tennessee</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/b000615_200.jpg</image_url><period from="1979" to="1989"/></member><member bioguideId="B000600"><name>Boland, Edward P.</name><state>Massachusetts</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/b000600_200.jpg</image_url><period from="1953" to="1989"/></member><member bioguideId="B000592"><name>Boggs, Corinne C. (Lindy)</name><state>Louisiana</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/b000592_200.jpg</image_url><period from="1973" to="1991"/></member><member bioguideId="B000586"><name>Boehlert, Sherwood</name><state>New York</state><party>Republican</party><image_url>https://www.congress.gov/img/member/b000586_200.jpg</image_url><period from="1983" to="2007"/></member><member bioguideId="B000551"><name>Blaz, Ben G.</name><state>Guam</state><party>Republican</party><image_url>https://www.congress.gov/img/member/b000551_200.jpg</image_url><period from="1985" to="1993"/></member><member bioguideId="B000463"><name>Bilirakis, Michael</name><state>Florida</state><party>Republican</party><image_url>https://www.congress.gov/img/member/b000463_200.jpg</image_url><period from="1983" to="2007"/></member><member bioguideId="B000462"><name>Bilbray, James H.</name><state>Nevada</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/b000462_200.jpg</image_url><period from="1987" to="1995"/></member><member bioguideId="B000432"><name>Biaggi, Mario</name><state>New York</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/b000432_200.jpg</image_url><period from="1969" to="1989"/></member><member bioguideId="B000431"><name>Bevill, Tom</name><state>Alabama</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/b000431_200.jpg</image_url><period from="1967" to="1997"/></member><member bioguideId="B000410"><name>Berman, Howard L.</name><state>California</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/b000410_200.jpg</image_url><period from="1983" to="2013"/></member><member bioguideId="B000403"><name>Bereuter, Doug</name><state>Nebraska</state><party>Republican</party><image_url>https://www.congress.gov/img/member/b000403_200.jpg</image_url><period from="1979" to="2004"/></member><member bioguideId="N000032"><name>Nelson, Bill</name><state>Florida</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/n000032_200.jpg</image_url><period from="1979" to="1991"/></member><member bioguideId="N000016"><name>Neal, Stephen L.</name><state>North Carolina</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/n000016_200.jpg</image_url><period from="1975" to="1995"/></member><member bioguideId="N000009"><name>Natcher, William H.</name><state>Kentucky</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/n000009_200.jpg</image_url><period from="1953" to="1995"/></member><member bioguideId="N000003"><name>Nagle, Dave R,</name><state>Iowa</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/n000003_200.jpg</image_url><period from="1987" to="1993"/></member><member bioguideId="M001130"><name>Myers, John T.</name><state>Indiana</state><party>Republican</party><image_url>https://www.congress.gov/img/member/m001130_200.jpg</image_url><period from="1967" to="1997"/></member><member bioguideId="M001057"><name>Mrazek, Robert J.</name><state>New York</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/m001057_200.jpg</image_url><period from="1983" to="1993"/></member><member bioguideId="M000999"><name>Morrison, Sid</name><state>Washington</state><party>Republican</party><image_url>https://www.congress.gov/img/member/m000999_200.jpg</image_url><period from="1981" to="1993"/></member><member bioguideId="M000992"><name>Morrison, Bruce A.</name><state>Connecticut</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/m000992_200.jpg</image_url><period from="1983" to="1991"/></member><member bioguideId="M000941"><name>Morella, Constance A.</name><state>Maryland</state><party>Republican</party><image_url>https://www.congress.gov/img/member/m000941_200.jpg</image_url><period from="1987" to="2003"/></member><member bioguideId="M000926"><name>Moorhead, Carlos J.</name><state>California</state><party>Republican</party><image_url>https://www.congress.gov/img/member/m000926_200.jpg</image_url><period from="1973" to="1997"/></member><member bioguideId="M000881"><name>Moody, Jim</name><state>Wisconsin</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/m000881_200.jpg</image_url><period from="1983" to="1993"/></member><member bioguideId="M000865"><name>Montgomery, G. V. (Sonny)</name><state>Mississippi</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/m000865_200.jpg</image_url><period from="1967" to="1997"/></member><member bioguideId="M000844"><name>Mollohan, Alan B.</name><state>West Virginia</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/m000844_200.jpg</image_url><period from="1983" to="2011"/></member><member bioguideId="M000842"><name>Molinari, Guy</name><state>New York</state><party>Republican</party><image_url>https://www.congress.gov/img/member/m000842_200.jpg</image_url><period from="1981" to="1991"/></member><member bioguideId="M000834"><name>Moakley, John Joseph</name><state>Massachusetts</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/m000834_200.jpg</image_url><period from="1973" to="2001"/></member><member bioguideId="M000794"><name>Mineta, Norman Y.</name><state>California</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/m000794_200.jpg</image_url><period from="1975" to="1997"/></member><member bioguideId="M000736"><name>Miller, John R.</name><state>Washington</state><party>Republican</party><image_url>https://www.congress.gov/img/member/m000736_200.jpg</image_url><period from="1985" to="1993"/></member><member bioguideId="M000725"><name>Miller, George</name><state>California</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/m000725_200.jpg</image_url><period from="1975" to="2015"/></member><member bioguideId="M000718"><name>Miller, Clarence E.</name><state>Ohio</state><party>Republican</party><image_url>https://www.congress.gov/img/member/m000718_200.jpg</image_url><period from="1967" to="1993"/></member><member bioguideId="M000702"><name>Mikulski, Barbara A.</name><state>Maryland</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/m000702_200.jpg</image_url><period from="1977" to="1987"/></member><member bioguideId="M000692"><name>Michel, Robert H.</name><state>Illinois</state><party>Republican</party><image_url>https://www.congress.gov/img/member/m000692_200.jpg</image_url><period from="1957" to="1995"/></member><member bioguideId="M000688"><name>Mica, Daniel Andrew</name><state>Florida</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/m000688_200.jpg</image_url><period from="1979" to="1989"/></member><member bioguideId="M000684"><name>Meyers, Jan</name><state>Kansas</state><party>Republican</party><image_url>https://www.congress.gov/img/member/m000684_200.jpg</image_url><period from="1985" to="1997"/></member><member bioguideId="M000635"><name>Melcher, John</name><state>Montana</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/m000635_200.jpg</image_url><period from="1969" to="1977"/></member><member bioguideId="M000573"><name>McMillen, Thomas</name><state>Maryland</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/m000573_200.jpg</image_url><period from="1987" to="1993"/></member><member bioguideId="M000566"><name>McMillan, J. Alex</name><state>North Carolina</state><party>Republican</party><image_url>https://www.congress.gov/img/member/m000566_200.jpg</image_url><period from="1985" to="1995"/></member><member bioguideId="M000527"><name>McKinney, Stewart B.</name><state>Connecticut</state><party>Republican</party><image_url>https://www.congress.gov/img/member/m000527_200.jpg</image_url><period from="1971" to="1989"/></member><member bioguideId="M000473"><name>McHugh, Matthew F.</name><state>New York</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/m000473_200.jpg</image_url><period from="1975" to="1993"/></member><member bioguideId="M000458"><name>McGrath, Raymond J.</name><state>New York</state><party>Republican</party><image_url>https://www.congress.gov/img/member/m000458_200.jpg</image_url><period from="1981" to="1993"/></member><member bioguideId="M000432"><name>McEwen, Bob</name><state>Ohio</state><party>Republican</party><image_url/><period from="1981" to="1993"/></member><member bioguideId="M000399"><name>McDade, Joseph M.</name><state>Pennsylvania</state><party>Republican</party><image_url>https://www.congress.gov/img/member/m000399_200.jpg</image_url><period from="1963" to="1999"/></member><member bioguideId="M000398"><name>McCurdy, Dave</name><state>Oklahoma</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/m000398_200.jpg</image_url><period from="1981" to="1995"/></member><member bioguideId="M000388"><name>McCrery, Jim</name><state>Louisiana</state><party>Republican</party><image_url>https://www.congress.gov/img/member/m000388_200.jpg</image_url><period from="1987" to="2011"/></member><member bioguideId="M000350"><name>McCollum, Bill</name><state>Florida</state><party>Republican</party><image_url>https://www.congress.gov/img/member/m000350_200.jpg</image_url><period from="1981" to="2001"/></member><member bioguideId="M000342"><name>McCloskey, Frank</name><state>Indiana</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/m000342_200.jpg</image_url><period from="1983" to="1995"/></member><member bioguideId="M000306"><name>McCandless, Alfred A. (Al)</name><state>California</state><party>Republican</party><image_url>https://www.congress.gov/img/member/m000306_200.jpg</image_url><period from="1983" to="1995"/></member></members><!-- Lista de sesiones de la Cámara --><sessions><session><number>1</number><type>R</type><period from="1987-01-06" to="1987-12-22"/></session><session><number>2</number><type>R</type><period from="1988-01-25" to="1988-10-22"/></session></sessions></chamber><chamber><name>Senate</name><!-- Lista de miembros de la Cámara --><members><member bioguideId="W000779"><name>Wyden, Ron</name><state>Oregon</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/w000779_200.jpg</image_url><period from="1996" to=""/></member><member bioguideId="S000148"><name>Schumer, Charles E.</name><state>New York</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/s000148_200.jpg</image_url><period from="1999" to=""/></member><member bioguideId="M000133"><name>Markey, Edward J.</name><state>Massachusetts</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/m000133_200.jpg</image_url><period from="2013" to=""/></member><member bioguideId="M000355"><name>McConnell, Mitch</name><state>Kentucky</state><party>Republican</party><image_url>https://www.congress.gov/img/member/m000355_200.jpg</image_url><period from="1985" to=""/></member><member bioguideId="G000386"><name>Grassley, Chuck</name><state>Iowa</state><party>Republican</party><image_url>https://www.congress.gov/img/member/g000386_200.jpg</image_url><period from="1981" to=""/></member><member bioguideId="D000563"><name>Durbin, Richard J.</name><state>Illinois</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/d000563_200.jpg</image_url><period from="1997" to=""/></member><member bioguideId="C000174"><name>Carper, Thomas R.</name><state>Delaware</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/c000174_200.jpg</image_url><period from="2001" to=""/></member><member bioguideId="C000141"><name>Cardin, Benjamin L.</name><state>Maryland</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/c000141_200.jpg</image_url><period from="2007" to=""/></member><member bioguideId="J000177"><name>Johnson, Tim</name><state>South Dakota</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/j000177_200.jpg</image_url><period from="1997" to="2015"/></member><member bioguideId="E000236"><name>Evans, Daniel J.</name><state>Washington</state><party>Republican</party><image_url>https://www.congress.gov/img/member/e000236_200.jpg</image_url><period from="1983" to="1989"/></member><member bioguideId="S000068"><name>Sasser, Jim</name><state>Tennessee</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/s000068_200.jpg</image_url><period from="1977" to="1995"/></member><member bioguideId="S001138"><name>Symms, Steven D.</name><state>Idaho</state><party>Republican</party><image_url>https://www.congress.gov/img/member/s001138_200.jpg</image_url><period from="1981" to="1993"/></member><member bioguideId="I000024"><name>Inhofe, James M.</name><state>Oklahoma</state><party>Republican</party><image_url>https://www.congress.gov/img/member/i000024_200.jpg</image_url><period from="1994" to="2023"/></member><member bioguideId="P000556"><name>Pryor, David H.</name><state>Arkansas</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/p000556_200.jpg</image_url><period from="1979" to="1997"/></member><member bioguideId="G000352"><name>Graham, Bob</name><state>Florida</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/g000352_200.jpg</image_url><period from="1987" to="2005"/></member><member bioguideId="D000566"><name>Durenberger, Dave</name><state>Minnesota</state><party>Republican</party><image_url>https://www.congress.gov/img/member/d000566_200.jpg</image_url><period from="1977" to="1995"/></member><member bioguideId="W000253"><name>Weicker, Lowell P., Jr.</name><state>Connecticut</state><party>Republican</party><image_url>https://www.congress.gov/img/member/w000253_200.jpg</image_url><period from="1973" to="1989"/></member><member bioguideId="S000320"><name>Shelby, Richard C.</name><state>Alabama</state><party>Republican</party><image_url>https://www.congress.gov/img/member/s000320_200.jpg</image_url><period from="1987" to="2023"/></member><member bioguideId="L000174"><name>Leahy, Patrick J.</name><state>Vermont</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/l000174_200.jpg</image_url><period from="1975" to="2023"/></member><member bioguideId="T000254"><name>Thurmond, Strom</name><state>South Carolina</state><party>Republican</party><image_url>https://www.congress.gov/img/member/t000254_200.jpg</image_url><period from="1953" to="2003"/></member><member bioguideId="D000294"><name>DeWine, Mike</name><state>Ohio</state><party>Republican</party><image_url>https://www.congress.gov/img/member/d000294_200.jpg</image_url><period from="1995" to="2007"/></member><member bioguideId="D000064"><name>Daschle, Thomas A.</name><state>South Dakota</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/d000064_200.jpg</image_url><period from="1987" to="2005"/></member><member bioguideId="R000146"><name>Reid, Harry</name><state>Nevada</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/r000146_200.jpg</image_url><period from="1987" to="2017"/></member><member bioguideId="Q000007"><name>Quayle, Dan</name><state>Indiana</state><party>Republican</party><image_url>https://www.congress.gov/img/member/q000007_200.jpg</image_url><period from="1981" to="1991"/></member><member bioguideId="P000513"><name>Pressler, Larry</name><state>South Dakota</state><party>Republican</party><image_url>https://www.congress.gov/img/member/p000513_200.jpg</image_url><period from="1979" to="1997"/></member><member bioguideId="P000218"><name>Pepper, Claude</name><state>Florida</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/p000218_200.jpg</image_url><period from="1935" to="1951"/></member><member bioguideId="Z000013"><name>Zorinsky, Edward</name><state>Nebraska</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/z000013_200.jpg</image_url><period from="1977" to="1989"/></member><member bioguideId="W000607"><name>Wilson, Pete</name><state>California</state><party>Republican</party><image_url>https://www.congress.gov/img/member/w000607_200.jpg</image_url><period from="1983" to="1993"/></member><member bioguideId="W000092"><name>Wallop, Malcolm</name><state>Wyoming</state><party>Republican</party><image_url>https://www.congress.gov/img/member/w000092_200.jpg</image_url><period from="1977" to="1995"/></member><member bioguideId="B000401"><name>Bentsen, Lloyd M.</name><state>Texas</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/b000401_200.jpg</image_url><period from="1971" to="1993"/></member><member bioguideId="W000647"><name>Wirth, Timothy</name><state>Colorado</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/w000647_200.jpg</image_url><period from="1987" to="1993"/></member><member bioguideId="T000367"><name>Trible, Paul S., Jr.</name><state>Virginia</state><party>Republican</party><image_url>https://www.congress.gov/img/member/t000367_200.jpg</image_url><period from="1983" to="1989"/></member><member bioguideId="T000317"><name>Torricelli, Robert G.</name><state>New Jersey</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/t000317_200.jpg</image_url><period from="1997" to="2003"/></member><member bioguideId="S000663"><name>Snowe, Olympia J.</name><state>Maine</state><party>Republican</party><image_url>https://www.congress.gov/img/member/s000663_200.jpg</image_url><period from="1995" to="2013"/></member><member bioguideId="S000606"><name>Smith, Bob</name><state>New Hampshire</state><party>Republican</party><image_url>https://www.congress.gov/img/member/s000606_200.jpg</image_url><period from="1991" to="2003"/></member><member bioguideId="S000423"><name>Simon, Paul</name><state>Illinois</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/s000423_200.jpg</image_url><period from="1985" to="1997"/></member><member bioguideId="S000064"><name>Sarbanes, Paul S.</name><state>Maryland</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/s000064_200.jpg</image_url><period from="1977" to="2007"/></member><member bioguideId="R000307"><name>Roberts, Pat</name><state>Kansas</state><party>Republican</party><image_url>https://www.congress.gov/img/member/r000307_200.jpg</image_url><period from="1997" to="2021"/></member><member bioguideId="R000249"><name>Riegle, Donald W., Jr.</name><state>Michigan</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/r000249_200.jpg</image_url><period from="1977" to="1995"/></member><member bioguideId="B000780"><name>Breaux, John B.</name><state>Louisiana</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/b000780_200.jpg</image_url><period from="1987" to="2005"/></member><member bioguideId="B000711"><name>Boxer, Barbara</name><state>California</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/b000711_200.jpg</image_url><period from="1993" to="2017"/></member><member bioguideId="N000032"><name>Nelson, Bill</name><state>Florida</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/n000032_200.jpg</image_url><period from="2001" to="2019"/></member><member bioguideId="M000702"><name>Mikulski, Barbara A.</name><state>Maryland</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/m000702_200.jpg</image_url><period from="1987" to="2017"/></member><member bioguideId="M000635"><name>Melcher, John</name><state>Montana</state><party>Democratic</party><image_url>https://www.congress.gov/img/member/m000635_200.jpg</image_url><period from="1977" to="1989"/></member></members><!-- Lista de sesiones de la Cámara --><sessions><session><number>1</number><type>R</type><period from="1987-01-06" to="1987-12-22"/></session><session><number>2</number><type>R</type><period from="1988-01-25" to="1988-10-22"/></session></sessions></chamber></chambers></congress></data>
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <congress><!-- Nombre del Congreso -->
+      <name number="100">100th Congress</name>
+      <!-- Período de duración del Congreso -->
+      <period from="1987" to="1988"/>
+      <!-- URL del Congreso -->
+      <url>https://api.congress.gov/v3/congress/100?format=xml</url>
+      <!-- Cámaras del Congreso -->
+      <chambers>
+         <chamber>
+            <name>House of Representatives</name>
+            <!-- Lista de miembros de la Cámara -->
+            <members>
+               <member bioguideId="W000779">
+                  <name>Wyden, Ron</name>
+                  <state>Oregon</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/w000779_200.jpg</image_url>
+                  <period from="1981" to="1996"/>
+               </member>
+               <member bioguideId="S000148">
+                  <name>Schumer, Charles E.</name>
+                  <state>New York</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/s000148_200.jpg</image_url>
+                  <period from="1981" to="1999"/>
+               </member>
+               <member bioguideId="M000133">
+                  <name>Markey, Edward J.</name>
+                  <state>Massachusetts</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/m000133_200.jpg</image_url>
+                  <period from="1977" to="2013"/>
+               </member>
+               <member bioguideId="G000386">
+                  <name>Grassley, Chuck</name>
+                  <state>Iowa</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/g000386_200.jpg</image_url>
+                  <period from="1975" to="1981"/>
+               </member>
+               <member bioguideId="D000563">
+                  <name>Durbin, Richard J.</name>
+                  <state>Illinois</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/d000563_200.jpg</image_url>
+                  <period from="1983" to="1997"/>
+               </member>
+               <member bioguideId="C000174">
+                  <name>Carper, Thomas R.</name>
+                  <state>Delaware</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/c000174_200.jpg</image_url>
+                  <period from="1983" to="1993"/>
+               </member>
+               <member bioguideId="C000141">
+                  <name>Cardin, Benjamin L.</name>
+                  <state>Maryland</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/c000141_200.jpg</image_url>
+                  <period from="1987" to="2007"/>
+               </member>
+               <member bioguideId="J000177">
+                  <name>Johnson, Tim</name>
+                  <state>South Dakota</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/j000177_200.jpg</image_url>
+                  <period from="1987" to="1997"/>
+               </member>
+               <member bioguideId="C000178">
+                  <name>Carr, Bob</name>
+                  <state>Michigan</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/c000178_200.jpg</image_url>
+                  <period from="1975" to="1981"/>
+               </member>
+               <member bioguideId="C000178">
+                  <name>Carr, Bob</name>
+                  <state>Michigan</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/c000178_200.jpg</image_url>
+                  <period from="1983" to="1995"/>
+               </member>
+               <member bioguideId="N000163">
+                  <name>Nowak, Henry</name>
+                  <state>New York</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/n000163_200.jpg</image_url>
+                  <period from="1975" to="1993"/>
+               </member>
+               <member bioguideId="S001138">
+                  <name>Symms, Steven D.</name>
+                  <state>Idaho</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/s001138_200.jpg</image_url>
+                  <period from="1973" to="1981"/>
+               </member>
+               <member bioguideId="R000354">
+                  <name>Robinson, Tommy F.</name>
+                  <state>Arkansas</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/r000354_200.jpg</image_url>
+                  <period from="1985" to="1991"/>
+               </member>
+               <member bioguideId="I000024">
+                  <name>Inhofe, James M.</name>
+                  <state>Oklahoma</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/i000024_200.jpg</image_url>
+                  <period from="1987" to="1995"/>
+               </member>
+               <member bioguideId="K000009">
+                  <name>Kaptur, Marcy</name>
+                  <state>Ohio</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/k000009_200.jpg</image_url>
+                  <period from="1983" to=""/>
+               </member>
+               <member bioguideId="P000034">
+                  <name>Pallone, Frank</name>
+                  <state>New Jersey</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/p000034_200.jpg</image_url>
+                  <period from="1987" to=""/>
+               </member>
+               <member bioguideId="S000522">
+                  <name>Smith, Christopher H.</name>
+                  <state>New Jersey</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/s000522_200.jpg</image_url>
+                  <period from="1981" to=""/>
+               </member>
+               <member bioguideId="M000687">
+                  <name>Mfume, Kweisi</name>
+                  <state>Maryland</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/m000687_200.jpg</image_url>
+                  <period from="1987" to="1997"/>
+               </member>
+               <member bioguideId="M000687">
+                  <name>Mfume, Kweisi</name>
+                  <state>Maryland</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/m000687_200.jpg</image_url>
+                  <period from="2020" to=""/>
+               </member>
+               <member bioguideId="H000874">
+                  <name>Hoyer, Steny H.</name>
+                  <state>Maryland</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/116_rp_md_5_hoyer_steny_200.jpg</image_url>
+                  <period from="1981" to=""/>
+               </member>
+               <member bioguideId="R000395">
+                  <name>Rogers, Harold</name>
+                  <state>Kentucky</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/r000395_200.jpg</image_url>
+                  <period from="1981" to=""/>
+               </member>
+               <member bioguideId="P000197">
+                  <name>Pelosi, Nancy</name>
+                  <state>California</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/p000197_200.jpg</image_url>
+                  <period from="1987" to=""/>
+               </member>
+               <member bioguideId="P000556">
+                  <name>Pryor, David H.</name>
+                  <state>Arkansas</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/p000556_200.jpg</image_url>
+                  <period from="1965" to="1973"/>
+               </member>
+               <member bioguideId="M001088">
+                  <name>Murphy, Austin J.</name>
+                  <state>Pennsylvania</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/m001088_200.jpg</image_url>
+                  <period from="1977" to="1995"/>
+               </member>
+               <member bioguideId="B000798">
+                  <name>Brennan, Joseph E.</name>
+                  <state>Maine</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/b000798_200.jpg</image_url>
+                  <period from="1987" to="1991"/>
+               </member>
+               <member bioguideId="B000556">
+                  <name>Bliley, Tom</name>
+                  <state>Virginia</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/b000556_200.jpg</image_url>
+                  <period from="1981" to="2001"/>
+               </member>
+               <member bioguideId="R000229">
+                  <name>Richardson, Bill</name>
+                  <state>New Mexico</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/r000229_200.jpg</image_url>
+                  <period from="1983" to="1999"/>
+               </member>
+               <member bioguideId="S001075">
+                  <name>Sundquist, Don</name>
+                  <state>Tennessee</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/s001075_200.jpg</image_url>
+                  <period from="1983" to="1995"/>
+               </member>
+               <member bioguideId="W000253">
+                  <name>Weicker, Lowell P., Jr.</name>
+                  <state>Connecticut</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/w000253_200.jpg</image_url>
+                  <period from="1969" to="1971"/>
+               </member>
+               <member bioguideId="B000620">
+                  <name>Bonker, Don</name>
+                  <state>Washington</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/b000620_200.jpg</image_url>
+                  <period from="1975" to="1989"/>
+               </member>
+               <member bioguideId="S000094">
+                  <name>Sawyer, Tom</name>
+                  <state>Ohio</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/s000094_200.jpg</image_url>
+                  <period from="1987" to="2003"/>
+               </member>
+               <member bioguideId="S000851">
+                  <name>Stenholm, Charles W.</name>
+                  <state>Texas</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/s000851_200.jpg</image_url>
+                  <period from="1979" to="2005"/>
+               </member>
+               <member bioguideId="S000394">
+                  <name>Shuster, Bud</name>
+                  <state>Pennsylvania</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/s000394_200.jpg</image_url>
+                  <period from="1973" to="2001"/>
+               </member>
+               <member bioguideId="S000142">
+                  <name>Schroeder, Patricia</name>
+                  <state>Colorado</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/s000142_200.jpg</image_url>
+                  <period from="1973" to="1997"/>
+               </member>
+               <member bioguideId="D000416">
+                  <name>Donnelly, Brian J.</name>
+                  <state>Massachusetts</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/d000416_200.jpg</image_url>
+                  <period from="1979" to="1993"/>
+               </member>
+               <member bioguideId="R000072">
+                  <name>Ravenel, Arthur, Jr.</name>
+                  <state>South Carolina</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/r000072_200.jpg</image_url>
+                  <period from="1987" to="1995"/>
+               </member>
+               <member bioguideId="P000523">
+                  <name>Price, David E.</name>
+                  <state>North Carolina</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/p000523_200.jpg</image_url>
+                  <period from="1987" to="1995"/>
+               </member>
+               <member bioguideId="P000523">
+                  <name>Price, David E.</name>
+                  <state>North Carolina</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/p000523_200.jpg</image_url>
+                  <period from="1997" to="2023"/>
+               </member>
+               <member bioguideId="Y000033">
+                  <name>Young, Don</name>
+                  <state>Alaska</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/116_rp_ak_0_young_don_200.jpg</image_url>
+                  <period from="1973" to="2022"/>
+               </member>
+               <member bioguideId="U000031">
+                  <name>Upton, Fred</name>
+                  <state>Michigan</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/u000031_200.jpg</image_url>
+                  <period from="1987" to="2023"/>
+               </member>
+               <member bioguideId="S000393">
+                  <name>Shumway, Norman D.</name>
+                  <state>California</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/s000393_200.jpg</image_url>
+                  <period from="1979" to="1991"/>
+               </member>
+               <member bioguideId="S000320">
+                  <name>Shelby, Richard C.</name>
+                  <state>Alabama</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/s000320_200.jpg</image_url>
+                  <period from="1979" to="1987"/>
+               </member>
+               <member bioguideId="C000754">
+                  <name>Cooper, Jim</name>
+                  <state>Tennessee</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/c000754_200.jpg</image_url>
+                  <period from="1983" to="1995"/>
+               </member>
+               <member bioguideId="C000754">
+                  <name>Cooper, Jim</name>
+                  <state>Tennessee</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/c000754_200.jpg</image_url>
+                  <period from="2003" to="2023"/>
+               </member>
+               <member bioguideId="D000191">
+                  <name>DeFazio, Peter A.</name>
+                  <state>Oregon</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/d000191_200.jpg</image_url>
+                  <period from="1987" to="2023"/>
+               </member>
+               <member bioguideId="K000306">
+                  <name>Kolbe, Jim</name>
+                  <state>Arizona</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/k000306_200.jpg</image_url>
+                  <period from="1985" to="2007"/>
+               </member>
+               <member bioguideId="H000878">
+                  <name>Hubbard, Carroll, Jr.</name>
+                  <state>Kentucky</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/h000878_200.jpg</image_url>
+                  <period from="1975" to="1993"/>
+               </member>
+               <member bioguideId="M001120">
+                  <name>Murtha, John P.</name>
+                  <state>Pennsylvania</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/m001120_200.jpg</image_url>
+                  <period from="1973" to="2010"/>
+               </member>
+               <member bioguideId="D000217">
+                  <name>DeLay, Tom</name>
+                  <state>Texas</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/d000217_200.jpg</image_url>
+                  <period from="1985" to="2007"/>
+               </member>
+               <member bioguideId="D000294">
+                  <name>DeWine, Mike</name>
+                  <state>Ohio</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/d000294_200.jpg</image_url>
+                  <period from="1983" to="1991"/>
+               </member>
+               <member bioguideId="D000064">
+                  <name>Daschle, Thomas A.</name>
+                  <state>South Dakota</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/d000064_200.jpg</image_url>
+                  <period from="1979" to="1987"/>
+               </member>
+               <member bioguideId="R000243">
+                  <name>Ridge, Thomas J.</name>
+                  <state>Pennsylvania</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/r000243_200.jpg</image_url>
+                  <period from="1983" to="1995"/>
+               </member>
+               <member bioguideId="R000189">
+                  <name>Rhodes, John J., III</name>
+                  <state>Arizona</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/r000189_200.jpg</image_url>
+                  <period from="1987" to="1993"/>
+               </member>
+               <member bioguideId="R000146">
+                  <name>Reid, Harry</name>
+                  <state>Nevada</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/r000146_200.jpg</image_url>
+                  <period from="1983" to="1987"/>
+               </member>
+               <member bioguideId="R000141">
+                  <name>Regula, Ralph</name>
+                  <state>Ohio</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/r000141_200.jpg</image_url>
+                  <period from="1973" to="2009"/>
+               </member>
+               <member bioguideId="R000080">
+                  <name>Ray, Richard B.</name>
+                  <state>Georgia</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/r000080_200.jpg</image_url>
+                  <period from="1983" to="1993"/>
+               </member>
+               <member bioguideId="R000053">
+                  <name>Rangel, Charles B.</name>
+                  <state>New York</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/r000053_200.jpg</image_url>
+                  <period from="1971" to="2017"/>
+               </member>
+               <member bioguideId="R000011">
+                  <name>Rahall, Nick J., II</name>
+                  <state>West Virginia</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/r000011_200.jpg</image_url>
+                  <period from="1977" to="2015"/>
+               </member>
+               <member bioguideId="Q000013">
+                  <name>Quillen, James H. (Jimmy)</name>
+                  <state>Tennessee</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/q000013_200.jpg</image_url>
+                  <period from="1963" to="1997"/>
+               </member>
+               <member bioguideId="Q000007">
+                  <name>Quayle, Dan</name>
+                  <state>Indiana</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/q000007_200.jpg</image_url>
+                  <period from="1977" to="1981"/>
+               </member>
+               <member bioguideId="P000574">
+                  <name>Pursell, Carl D.</name>
+                  <state>Michigan</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/p000574_200.jpg</image_url>
+                  <period from="1977" to="1993"/>
+               </member>
+               <member bioguideId="P000522">
+                  <name>Price, Melvin</name>
+                  <state>Illinois</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/p000522_200.jpg</image_url>
+                  <period from="1945" to="1989"/>
+               </member>
+               <member bioguideId="P000513">
+                  <name>Pressler, Larry</name>
+                  <state>South Dakota</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/p000513_200.jpg</image_url>
+                  <period from="1975" to="1979"/>
+               </member>
+               <member bioguideId="P000444">
+                  <name>Porter, John Edward</name>
+                  <state>Illinois</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/p000444_200.jpg</image_url>
+                  <period from="1979" to="2001"/>
+               </member>
+               <member bioguideId="P000328">
+                  <name>Pickle, J. J.</name>
+                  <state>Texas</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/p000328_200.jpg</image_url>
+                  <period from="1963" to="1995"/>
+               </member>
+               <member bioguideId="P000326">
+                  <name>Pickett, Owen B.</name>
+                  <state>Virginia</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/p000326_200.jpg</image_url>
+                  <period from="1987" to="2001"/>
+               </member>
+               <member bioguideId="P000265">
+                  <name>Petri, Thomas E.</name>
+                  <state>Wisconsin</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/p000265_200.jpg</image_url>
+                  <period from="1979" to="2015"/>
+               </member>
+               <member bioguideId="P000229">
+                  <name>Perkins, Carl C.</name>
+                  <state>Kentucky</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/p000229_200.jpg</image_url>
+                  <period from="1984" to="1993"/>
+               </member>
+               <member bioguideId="P000218">
+                  <name>Pepper, Claude</name>
+                  <state>Florida</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/p000218_200.jpg</image_url>
+                  <period from="1963" to="1991"/>
+               </member>
+               <member bioguideId="P000215">
+                  <name>Penny, Timothy J.</name>
+                  <state>Minnesota</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/p000215_200.jpg</image_url>
+                  <period from="1983" to="1995"/>
+               </member>
+               <member bioguideId="P000170">
+                  <name>Pease, Donald J.</name>
+                  <state>Ohio</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/p000170_200.jpg</image_url>
+                  <period from="1977" to="1993"/>
+               </member>
+               <member bioguideId="P000152">
+                  <name>Payne, Lewis F., Jr.</name>
+                  <state>Virginia</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/p000152_200.jpg</image_url>
+                  <period from="1987" to="1997"/>
+               </member>
+               <member bioguideId="P000112">
+                  <name>Patterson, Elizabeth</name>
+                  <state>South Carolina</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/p000112_200.jpg</image_url>
+                  <period from="1987" to="1993"/>
+               </member>
+               <member bioguideId="P000097">
+                  <name>Pashayan, Charles, Jr.</name>
+                  <state>California</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/p000097_200.jpg</image_url>
+                  <period from="1979" to="1991"/>
+               </member>
+               <member bioguideId="P000080">
+                  <name>Parris, Stanford E. (Stan)</name>
+                  <state>Virginia</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/p000080_200.jpg</image_url>
+                  <period from="1973" to="1975"/>
+               </member>
+               <member bioguideId="P000080">
+                  <name>Parris, Stanford E. (Stan)</name>
+                  <state>Virginia</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/p000080_200.jpg</image_url>
+                  <period from="1981" to="1991"/>
+               </member>
+               <member bioguideId="P000047">
+                  <name>Panetta, Leon</name>
+                  <state>California</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/p000047_200.jpg</image_url>
+                  <period from="1977" to="1995"/>
+               </member>
+               <member bioguideId="P000005">
+                  <name>Packard, Ron</name>
+                  <state>California</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/p000005_200.jpg</image_url>
+                  <period from="1983" to="2001"/>
+               </member>
+               <member bioguideId="O000163">
+                  <name>Oxley, Michael G.</name>
+                  <state>Ohio</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/o000163_200.jpg</image_url>
+                  <period from="1981" to="2007"/>
+               </member>
+               <member bioguideId="O000156">
+                  <name>Owens, Wayne</name>
+                  <state>Utah</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/o000156_200.jpg</image_url>
+                  <period from="1973" to="1975"/>
+               </member>
+               <member bioguideId="O000156">
+                  <name>Owens, Wayne</name>
+                  <state>Utah</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/o000156_200.jpg</image_url>
+                  <period from="1987" to="1993"/>
+               </member>
+               <member bioguideId="O000159">
+                  <name>Owens, Major R.</name>
+                  <state>New York</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/o000159_200.jpg</image_url>
+                  <period from="1983" to="2007"/>
+               </member>
+               <member bioguideId="O000107">
+                  <name>Ortiz, Solomon P.</name>
+                  <state>Texas</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/o000107_200.jpg</image_url>
+                  <period from="1983" to="2011"/>
+               </member>
+               <member bioguideId="O000069">
+                  <name>Olin, James R.</name>
+                  <state>Virginia</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/o000069_200.jpg</image_url>
+                  <period from="1983" to="1993"/>
+               </member>
+               <member bioguideId="O000007">
+                  <name>Obey, David R.</name>
+                  <state>Wisconsin</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/o000007_200.jpg</image_url>
+                  <period from="1969" to="2011"/>
+               </member>
+               <member bioguideId="O000006">
+                  <name>Oberstar, James L.</name>
+                  <state>Minnesota</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/o000006_200.jpg</image_url>
+                  <period from="1975" to="2011"/>
+               </member>
+               <member bioguideId="O000001">
+                  <name>Oakar, Mary Rose</name>
+                  <state>Ohio</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/o000001_200.jpg</image_url>
+                  <period from="1977" to="1993"/>
+               </member>
+               <member bioguideId="B000401">
+                  <name>Bentsen, Lloyd M.</name>
+                  <state>Texas</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/b000401_200.jpg</image_url>
+                  <period from="1947" to="1955"/>
+               </member>
+               <member bioguideId="Y000031">
+                  <name>Young, C. W. Bill</name>
+                  <state>Florida</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/y000031_200.jpg</image_url>
+                  <period from="1971" to="2013"/>
+               </member>
+               <member bioguideId="Y000014">
+                  <name>Yatron, Gus</name>
+                  <state>Pennsylvania</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/y000014_200.jpg</image_url>
+                  <period from="1969" to="1993"/>
+               </member>
+               <member bioguideId="Y000013">
+                  <name>Yates, Sidney R.</name>
+                  <state>Illinois</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/y000013_200.jpg</image_url>
+                  <period from="1949" to="1963"/>
+               </member>
+               <member bioguideId="Y000013">
+                  <name>Yates, Sidney R.</name>
+                  <state>Illinois</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/y000013_200.jpg</image_url>
+                  <period from="1965" to="1999"/>
+               </member>
+               <member bioguideId="W000781">
+                  <name>Wylie, Chalmers P.</name>
+                  <state>Ohio</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/w000781_200.jpg</image_url>
+                  <period from="1967" to="1993"/>
+               </member>
+               <member bioguideId="W000763">
+                  <name>Wright, James C., Jr.</name>
+                  <state>Texas</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/w000763_200.jpg</image_url>
+                  <period from="1955" to="1991"/>
+               </member>
+               <member bioguideId="W000752">
+                  <name>Wortley, George C.</name>
+                  <state>New York</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/w000752_200.jpg</image_url>
+                  <period from="1981" to="1989"/>
+               </member>
+               <member bioguideId="W000682">
+                  <name>Wolpe, Howard E.</name>
+                  <state>Michigan</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/w000682_200.jpg</image_url>
+                  <period from="1979" to="1993"/>
+               </member>
+               <member bioguideId="W000672">
+                  <name>Wolf, Frank R.</name>
+                  <state>Virginia</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/w000672_200.jpg</image_url>
+                  <period from="1981" to="2015"/>
+               </member>
+               <member bioguideId="W000654">
+                  <name>Wise, Robert E., Jr.</name>
+                  <state>West Virginia</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/w000654_200.jpg</image_url>
+                  <period from="1983" to="2001"/>
+               </member>
+               <member bioguideId="W000647">
+                  <name>Wirth, Timothy</name>
+                  <state>Colorado</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/w000647_200.jpg</image_url>
+                  <period from="1975" to="1987"/>
+               </member>
+               <member bioguideId="W000570">
+                  <name>Wilson, Charles</name>
+                  <state>Texas</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/w000570_200.jpg</image_url>
+                  <period from="1973" to="1997"/>
+               </member>
+               <member bioguideId="W000520">
+                  <name>Williams, Pat</name>
+                  <state>Montana</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/w000520_200.jpg</image_url>
+                  <period from="1979" to="1997"/>
+               </member>
+               <member bioguideId="W000428">
+                  <name>Whitten, Jamie L.</name>
+                  <state>Mississippi</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/w000428_200.jpg</image_url>
+                  <period from="1941" to="1947"/>
+               </member>
+               <member bioguideId="W000428">
+                  <name>Whitten, Jamie L.</name>
+                  <state>Mississippi</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/w000428_200.jpg</image_url>
+                  <period from="1973" to="1995"/>
+               </member>
+               <member bioguideId="W000426">
+                  <name>Whittaker, Bob</name>
+                  <state>Kansas</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/w000426_200.jpg</image_url>
+                  <period from="1979" to="1991"/>
+               </member>
+               <member bioguideId="W000326">
+                  <name>Wheat, Alan</name>
+                  <state>Missouri</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/w000326_200.jpg</image_url>
+                  <period from="1983" to="1995"/>
+               </member>
+               <member bioguideId="W000268">
+                  <name>Weldon, Curt</name>
+                  <state>Pennsylvania</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/w000268_200.jpg</image_url>
+                  <period from="1987" to="2007"/>
+               </member>
+               <member bioguideId="W000258">
+                  <name>Weiss, Ted</name>
+                  <state>New York</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/w000258_200.jpg</image_url>
+                  <period from="1977" to="1993"/>
+               </member>
+               <member bioguideId="W000237">
+                  <name>Weber, Vin</name>
+                  <state>Minnesota</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/w000237_200.jpg</image_url>
+                  <period from="1981" to="1993"/>
+               </member>
+               <member bioguideId="W000215">
+                  <name>Waxman, Henry A.</name>
+                  <state>California</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/w000215_200.jpg</image_url>
+                  <period from="1975" to="2015"/>
+               </member>
+               <member bioguideId="W000194">
+                  <name>Watkins, Wes</name>
+                  <state>Oklahoma</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/w000194_200.jpg</image_url>
+                  <period from="1977" to="1991"/>
+               </member>
+               <member bioguideId="W000194">
+                  <name>Watkins, Wes</name>
+                  <state>Oklahoma</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/w000194_200.jpg</image_url>
+                  <period from="1997" to="2003"/>
+               </member>
+               <member bioguideId="W000068">
+                  <name>Walker, Robert S.</name>
+                  <state>Pennsylvania</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/w000068_200.jpg</image_url>
+                  <period from="1977" to="1997"/>
+               </member>
+               <member bioguideId="W000044">
+                  <name>Walgren, Doug</name>
+                  <state>Pennsylvania</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/w000044_200.jpg</image_url>
+                  <period from="1977" to="1991"/>
+               </member>
+               <member bioguideId="V000124">
+                  <name>Vucanovich, Barbara F.</name>
+                  <state>Nevada</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/v000124_200.jpg</image_url>
+                  <period from="1983" to="1997"/>
+               </member>
+               <member bioguideId="V000112">
+                  <name>Volkmer, Harold L.</name>
+                  <state>Missouri</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/v000112_200.jpg</image_url>
+                  <period from="1977" to="1997"/>
+               </member>
+               <member bioguideId="V000108">
+                  <name>Visclosky, Peter J.</name>
+                  <state>Indiana</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/v000108_200.jpg</image_url>
+                  <period from="1985" to="2021"/>
+               </member>
+               <member bioguideId="V000027">
+                  <name>Vander Jagt, Guy</name>
+                  <state>Michigan</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/v000027_200.jpg</image_url>
+                  <period from="1965" to="1993"/>
+               </member>
+               <member bioguideId="V000006">
+                  <name>Valentine, Tim</name>
+                  <state>North Carolina</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/v000006_200.jpg</image_url>
+                  <period from="1983" to="1995"/>
+               </member>
+               <member bioguideId="U000001">
+                  <name>Udall, Morris K.</name>
+                  <state>Arizona</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/u000001_200.jpg</image_url>
+                  <period from="1961" to="1993"/>
+               </member>
+               <member bioguideId="T000367">
+                  <name>Trible, Paul S., Jr.</name>
+                  <state>Virginia</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/t000367_200.jpg</image_url>
+                  <period from="1977" to="1983"/>
+               </member>
+               <member bioguideId="T000356">
+                  <name>Traxler, Bob</name>
+                  <state>Michigan</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/t000356_200.jpg</image_url>
+                  <period from="1973" to="1993"/>
+               </member>
+               <member bioguideId="T000350">
+                  <name>Traficant, James A., Jr.</name>
+                  <state>Ohio</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/t000350_200.jpg</image_url>
+                  <period from="1985" to="2002"/>
+               </member>
+               <member bioguideId="T000326">
+                  <name>Towns, Edolphus</name>
+                  <state>New York</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/t000326_200.jpg</image_url>
+                  <period from="1983" to="2013"/>
+               </member>
+               <member bioguideId="T000317">
+                  <name>Torricelli, Robert G.</name>
+                  <state>New Jersey</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/t000317_200.jpg</image_url>
+                  <period from="1983" to="1997"/>
+               </member>
+               <member bioguideId="T000316">
+                  <name>Torres, Estaban Edward</name>
+                  <state>California</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/t000316_200.jpg</image_url>
+                  <period from="1983" to="1999"/>
+               </member>
+               <member bioguideId="T000184">
+                  <name>Thomas, Lindsay</name>
+                  <state>Georgia</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/t000184_200.jpg</image_url>
+                  <period from="1983" to="1993"/>
+               </member>
+               <member bioguideId="T000188">
+                  <name>Thomas, William M.</name>
+                  <state>California</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/t000188_200.jpg</image_url>
+                  <period from="1979" to="2007"/>
+               </member>
+               <member bioguideId="T000075">
+                  <name>Taylor, G.</name>
+                  <state>Missouri</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/t000075_200.jpg</image_url>
+                  <period from="1973" to="1989"/>
+               </member>
+               <member bioguideId="T000058">
+                  <name>Tauzin, W. J. (Billy)</name>
+                  <state>Louisiana</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/t000058_200.jpg</image_url>
+                  <period from="1979" to="2005"/>
+               </member>
+               <member bioguideId="T000053">
+                  <name>Tauke, Thomas Joseph</name>
+                  <state>Iowa</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/t000053_200.jpg</image_url>
+                  <period from="1979" to="1991"/>
+               </member>
+               <member bioguideId="T000034">
+                  <name>Tallon, Robert M. (Robin)</name>
+                  <state>South Carolina</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/t000034_200.jpg</image_url>
+                  <period from="1983" to="1993"/>
+               </member>
+               <member bioguideId="S001139">
+                  <name>Synar, Mike</name>
+                  <state>Oklahoma</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/s001139_200.jpg</image_url>
+                  <period from="1979" to="1995"/>
+               </member>
+               <member bioguideId="S001122">
+                  <name>Swindall, Patrick L.</name>
+                  <state>Georgia</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/s001122_200.jpg</image_url>
+                  <period from="1985" to="1989"/>
+               </member>
+               <member bioguideId="S001115">
+                  <name>Swift, Al</name>
+                  <state>Washington</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/s001115_200.jpg</image_url>
+                  <period from="1979" to="1995"/>
+               </member>
+               <member bioguideId="S001101">
+                  <name>Sweeney, David McCann</name>
+                  <state>Texas</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/s001101_200.jpg</image_url>
+                  <period from="1985" to="1989"/>
+               </member>
+               <member bioguideId="S001077">
+                  <name>Sunia, Foto I. F.</name>
+                  <state>American Samoa</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/s001077_200.jpg</image_url>
+                  <period from="1981" to="1989"/>
+               </member>
+               <member bioguideId="S001044">
+                  <name>Stump, Bob</name>
+                  <state>Arizona</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/s001044_200.jpg</image_url>
+                  <period from="1977" to="2003"/>
+               </member>
+               <member bioguideId="S001040">
+                  <name>Studds, Gerry E.</name>
+                  <state>Massachusetts</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/s001040_200.jpg</image_url>
+                  <period from="1973" to="1997"/>
+               </member>
+               <member bioguideId="S000997">
+                  <name>Stratton, Samuel S.</name>
+                  <state>New York</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/s000997_200.jpg</image_url>
+                  <period from="1959" to="1989"/>
+               </member>
+               <member bioguideId="S000948">
+                  <name>Stokes, Louis</name>
+                  <state>Ohio</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/s000948_200.jpg</image_url>
+                  <period from="1969" to="1999"/>
+               </member>
+               <member bioguideId="S000810">
+                  <name>Stark, Fortney Pete</name>
+                  <state>California</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/s000810_200.jpg</image_url>
+                  <period from="1973" to="2013"/>
+               </member>
+               <member bioguideId="S000795">
+                  <name>Stangeland, Arlan</name>
+                  <state>Minnesota</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/s000795_200.jpg</image_url>
+                  <period from="1977" to="1991"/>
+               </member>
+               <member bioguideId="S000785">
+                  <name>Stallings, Richard H.</name>
+                  <state>Idaho</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/s000785_200.jpg</image_url>
+                  <period from="1985" to="1993"/>
+               </member>
+               <member bioguideId="S000779">
+                  <name>Staggers, Harley O., Jr.</name>
+                  <state>West Virginia</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/s000779_200.jpg</image_url>
+                  <period from="1983" to="1993"/>
+               </member>
+               <member bioguideId="S000762">
+                  <name>St Germain, Fernand J.</name>
+                  <state>Rhode Island</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/s000762_200.jpg</image_url>
+                  <period from="1961" to="1989"/>
+               </member>
+               <member bioguideId="S000749">
+                  <name>Spratt, John M., Jr.</name>
+                  <state>South Carolina</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/s000749_200.jpg</image_url>
+                  <period from="1983" to="2011"/>
+               </member>
+               <member bioguideId="S000718">
+                  <name>Spence, Floyd</name>
+                  <state>South Carolina</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/s000718_200.jpg</image_url>
+                  <period from="1971" to="2001"/>
+               </member>
+               <member bioguideId="S000675">
+                  <name>Solomon, Gerald B. H.</name>
+                  <state>New York</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/s000675_200.jpg</image_url>
+                  <period from="1979" to="1999"/>
+               </member>
+               <member bioguideId="S000673">
+                  <name>Solarz, Stephen J.</name>
+                  <state>New York</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/s000673_200.jpg</image_url>
+                  <period from="1975" to="1993"/>
+               </member>
+               <member bioguideId="S000663">
+                  <name>Snowe, Olympia J.</name>
+                  <state>Maine</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/s000663_200.jpg</image_url>
+                  <period from="1979" to="1995"/>
+               </member>
+               <member bioguideId="S000622">
+                  <name>Smith, Virginia</name>
+                  <state>Nebraska</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/s000622_200.jpg</image_url>
+                  <period from="1975" to="1991"/>
+               </member>
+               <member bioguideId="S000607">
+                  <name>Smith, Robert</name>
+                  <state>Oregon</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/s000607_200.jpg</image_url>
+                  <period from="1983" to="1995"/>
+               </member>
+               <member bioguideId="S000607">
+                  <name>Smith, Robert</name>
+                  <state>Oregon</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/s000607_200.jpg</image_url>
+                  <period from="1997" to="1999"/>
+               </member>
+               <member bioguideId="S000606">
+                  <name>Smith, Bob</name>
+                  <state>New Hampshire</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/s000606_200.jpg</image_url>
+                  <period from="1985" to="1991"/>
+               </member>
+               <member bioguideId="S000596">
+                  <name>Smith, Neal Edward</name>
+                  <state>Iowa</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/s000596_200.jpg</image_url>
+                  <period from="1959" to="1995"/>
+               </member>
+               <member bioguideId="S000586">
+                  <name>Smith, Lawrence</name>
+                  <state>Florida</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/s000586_200.jpg</image_url>
+                  <period from="1983" to="1993"/>
+               </member>
+               <member bioguideId="S000583">
+                  <name>Smith, Lamar</name>
+                  <state>Texas</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/s000583_200.jpg</image_url>
+                  <period from="1987" to="2019"/>
+               </member>
+               <member bioguideId="S000527">
+                  <name>Smith, Denny</name>
+                  <state>Oregon</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/s000527_200.jpg</image_url>
+                  <period from="1981" to="1991"/>
+               </member>
+               <member bioguideId="S000480">
+                  <name>Slaughter, Louise McIntosh</name>
+                  <state>New York</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/s000480_200.jpg</image_url>
+                  <period from="1987" to="2018"/>
+               </member>
+               <member bioguideId="S000479">
+                  <name>Slaughter, D. French, Jr.</name>
+                  <state>Virginia</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/s000479_200.jpg</image_url>
+                  <period from="1985" to="1993"/>
+               </member>
+               <member bioguideId="S000477">
+                  <name>Slattery, Jim</name>
+                  <state>Kansas</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/s000477_200.jpg</image_url>
+                  <period from="1983" to="1995"/>
+               </member>
+               <member bioguideId="S000465">
+                  <name>Skelton, Ike</name>
+                  <state>Missouri</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/s000465_200.jpg</image_url>
+                  <period from="1977" to="2011"/>
+               </member>
+               <member bioguideId="S000463">
+                  <name>Skeen, Joe</name>
+                  <state>New Mexico</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/s000463_200.jpg</image_url>
+                  <period from="1981" to="2003"/>
+               </member>
+               <member bioguideId="S000462">
+                  <name>Skaggs, David E.</name>
+                  <state>Colorado</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/s000462_200.jpg</image_url>
+                  <period from="1987" to="1999"/>
+               </member>
+               <member bioguideId="S000453">
+                  <name>Sisisky, Norman</name>
+                  <state>Virginia</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/s000453_200.jpg</image_url>
+                  <period from="1983" to="2001"/>
+               </member>
+               <member bioguideId="S000423">
+                  <name>Simon, Paul</name>
+                  <state>Illinois</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/s000423_200.jpg</image_url>
+                  <period from="1975" to="1985"/>
+               </member>
+               <member bioguideId="S000407">
+                  <name>Sikorski, Gerry E.</name>
+                  <state>Minnesota</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/s000407_200.jpg</image_url>
+                  <period from="1983" to="1993"/>
+               </member>
+               <member bioguideId="S001144">
+                  <name>Shays, Christopher</name>
+                  <state>Connecticut</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/s001144_200.jpg</image_url>
+                  <period from="1987" to="2009"/>
+               </member>
+               <member bioguideId="S000303">
+                  <name>Shaw, E. Clay, Jr.</name>
+                  <state>Florida</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/s000303_200.jpg</image_url>
+                  <period from="1981" to="2007"/>
+               </member>
+               <member bioguideId="S000294">
+                  <name>Sharp, Philip R.</name>
+                  <state>Indiana</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/s000294_200.jpg</image_url>
+                  <period from="1975" to="1995"/>
+               </member>
+               <member bioguideId="S000244">
+                  <name>Sensenbrenner, F. James, Jr.</name>
+                  <state>Wisconsin</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/s000244_200.jpg</image_url>
+                  <period from="1979" to="2021"/>
+               </member>
+               <member bioguideId="S000146">
+                  <name>Schulze, Richard T.</name>
+                  <state>Pennsylvania</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/s000146_200.jpg</image_url>
+                  <period from="1975" to="1993"/>
+               </member>
+               <member bioguideId="S000143">
+                  <name>Schuette, Bill</name>
+                  <state>Michigan</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/s000143_200.jpg</image_url>
+                  <period from="1985" to="1991"/>
+               </member>
+               <member bioguideId="S000136">
+                  <name>Schneider, Claudine</name>
+                  <state>Rhode Island</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/s000136_200.jpg</image_url>
+                  <period from="1981" to="1991"/>
+               </member>
+               <member bioguideId="S000124">
+                  <name>Scheuer, James H.</name>
+                  <state>New York</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/s000124_200.jpg</image_url>
+                  <period from="1965" to="1973"/>
+               </member>
+               <member bioguideId="S000124">
+                  <name>Scheuer, James H.</name>
+                  <state>New York</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/s000124_200.jpg</image_url>
+                  <period from="1975" to="1993"/>
+               </member>
+               <member bioguideId="S000109">
+                  <name>Schaefer, Dan</name>
+                  <state>Colorado</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/s000109_200.jpg</image_url>
+                  <period from="1983" to="1999"/>
+               </member>
+               <member bioguideId="S000097">
+                  <name>Saxton, Jim</name>
+                  <state>New Jersey</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/s000097_200.jpg</image_url>
+                  <period from="1985" to="2009"/>
+               </member>
+               <member bioguideId="S000081">
+                  <name>Savage, Gus</name>
+                  <state>Illinois</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/s000081_200.jpg</image_url>
+                  <period from="1981" to="1993"/>
+               </member>
+               <member bioguideId="S000064">
+                  <name>Sarbanes, Paul S.</name>
+                  <state>Maryland</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/s000064_200.jpg</image_url>
+                  <period from="1971" to="1977"/>
+               </member>
+               <member bioguideId="S000014">
+                  <name>Saiki, Patricia</name>
+                  <state>Hawaii</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/s000014_200.jpg</image_url>
+                  <period from="1987" to="1991"/>
+               </member>
+               <member bioguideId="S000005">
+                  <name>Sabo, Martin Olav</name>
+                  <state>Minnesota</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/s000005_200.jpg</image_url>
+                  <period from="1979" to="2007"/>
+               </member>
+               <member bioguideId="R000543">
+                  <name>Russo, Martin A.</name>
+                  <state>Illinois</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/r000543_200.jpg</image_url>
+                  <period from="1975" to="1993"/>
+               </member>
+               <member bioguideId="R000485">
+                  <name>Roybal, Edward R.</name>
+                  <state>California</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/r000485_200.jpg</image_url>
+                  <period from="1963" to="1993"/>
+               </member>
+               <member bioguideId="R000482">
+                  <name>Rowland, John G.</name>
+                  <state>Connecticut</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/r000482_200.jpg</image_url>
+                  <period from="1985" to="1991"/>
+               </member>
+               <member bioguideId="R000481">
+                  <name>Rowland, J. Roy</name>
+                  <state>Georgia</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/r000481_200.jpg</image_url>
+                  <period from="1983" to="1995"/>
+               </member>
+               <member bioguideId="R000465">
+                  <name>Roukema, Marge</name>
+                  <state>New Jersey</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/r000465_200.jpg</image_url>
+                  <period from="1981" to="2003"/>
+               </member>
+               <member bioguideId="R000459">
+                  <name>Roth, Toby</name>
+                  <state>Wisconsin</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/r000459_200.jpg</image_url>
+                  <period from="1979" to="1997"/>
+               </member>
+               <member bioguideId="R000458">
+                  <name>Rostenkowski, Dan</name>
+                  <state>Illinois</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/r000458_200.jpg</image_url>
+                  <period from="1959" to="1995"/>
+               </member>
+               <member bioguideId="R000436">
+                  <name>Rose, Charlie</name>
+                  <state>North Carolina</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/r000436_200.jpg</image_url>
+                  <period from="1973" to="1997"/>
+               </member>
+               <member bioguideId="R000384">
+                  <name>Roemer, Buddy</name>
+                  <state>Louisiana</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/r000384_200.jpg</image_url>
+                  <period from="1981" to="1989"/>
+               </member>
+               <member bioguideId="R000383">
+                  <name>Roe, Robert A.</name>
+                  <state>New Jersey</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/r000383_200.jpg</image_url>
+                  <period from="1969" to="1993"/>
+               </member>
+               <member bioguideId="R000374">
+                  <name>Rodino, Peter W., Jr.</name>
+                  <state>New Jersey</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/r000374_200.jpg</image_url>
+                  <period from="1949" to="1989"/>
+               </member>
+               <member bioguideId="R000307">
+                  <name>Roberts, Pat</name>
+                  <state>Kansas</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/r000307_200.jpg</image_url>
+                  <period from="1981" to="1997"/>
+               </member>
+               <member bioguideId="R000277">
+                  <name>Ritter, Don</name>
+                  <state>Pennsylvania</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/r000277_200.jpg</image_url>
+                  <period from="1979" to="1993"/>
+               </member>
+               <member bioguideId="R000262">
+                  <name>Rinaldo, Matthew J.</name>
+                  <state>New Jersey</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/r000262_200.jpg</image_url>
+                  <period from="1973" to="1993"/>
+               </member>
+               <member bioguideId="R000249">
+                  <name>Riegle, Donald W., Jr.</name>
+                  <state>Michigan</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/r000249_200.jpg</image_url>
+                  <period from="1967" to="1977"/>
+               </member>
+               <member bioguideId="B000780">
+                  <name>Breaux, John B.</name>
+                  <state>Louisiana</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/b000780_200.jpg</image_url>
+                  <period from="1971" to="1987"/>
+               </member>
+               <member bioguideId="B000711">
+                  <name>Boxer, Barbara</name>
+                  <state>California</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/b000711_200.jpg</image_url>
+                  <period from="1983" to="1993"/>
+               </member>
+               <member bioguideId="B000666">
+                  <name>Boulter, Beau</name>
+                  <state>Texas</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/b000666_200.jpg</image_url>
+                  <period from="1985" to="1989"/>
+               </member>
+               <member bioguideId="B000657">
+                  <name>Boucher, Rick</name>
+                  <state>Virginia</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/b000657_200.jpg</image_url>
+                  <period from="1983" to="2011"/>
+               </member>
+               <member bioguideId="B000648">
+                  <name>Bosco, Douglas H.</name>
+                  <state>California</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/b000648_200.jpg</image_url>
+                  <period from="1983" to="1991"/>
+               </member>
+               <member bioguideId="B000644">
+                  <name>Borski, Robert A.</name>
+                  <state>Pennsylvania</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/b000644_200.jpg</image_url>
+                  <period from="1983" to="2003"/>
+               </member>
+               <member bioguideId="B000619">
+                  <name>Bonior, David E.</name>
+                  <state>Michigan</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/b000619_200.jpg</image_url>
+                  <period from="1977" to="2003"/>
+               </member>
+               <member bioguideId="B000615">
+                  <name>Boner, William H.</name>
+                  <state>Tennessee</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/b000615_200.jpg</image_url>
+                  <period from="1979" to="1989"/>
+               </member>
+               <member bioguideId="B000600">
+                  <name>Boland, Edward P.</name>
+                  <state>Massachusetts</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/b000600_200.jpg</image_url>
+                  <period from="1953" to="1989"/>
+               </member>
+               <member bioguideId="B000592">
+                  <name>Boggs, Corinne C. (Lindy)</name>
+                  <state>Louisiana</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/b000592_200.jpg</image_url>
+                  <period from="1973" to="1991"/>
+               </member>
+               <member bioguideId="B000586">
+                  <name>Boehlert, Sherwood</name>
+                  <state>New York</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/b000586_200.jpg</image_url>
+                  <period from="1983" to="2007"/>
+               </member>
+               <member bioguideId="B000551">
+                  <name>Blaz, Ben G.</name>
+                  <state>Guam</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/b000551_200.jpg</image_url>
+                  <period from="1985" to="1993"/>
+               </member>
+               <member bioguideId="B000463">
+                  <name>Bilirakis, Michael</name>
+                  <state>Florida</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/b000463_200.jpg</image_url>
+                  <period from="1983" to="2007"/>
+               </member>
+               <member bioguideId="B000462">
+                  <name>Bilbray, James H.</name>
+                  <state>Nevada</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/b000462_200.jpg</image_url>
+                  <period from="1987" to="1995"/>
+               </member>
+               <member bioguideId="B000432">
+                  <name>Biaggi, Mario</name>
+                  <state>New York</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/b000432_200.jpg</image_url>
+                  <period from="1969" to="1989"/>
+               </member>
+               <member bioguideId="B000431">
+                  <name>Bevill, Tom</name>
+                  <state>Alabama</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/b000431_200.jpg</image_url>
+                  <period from="1967" to="1997"/>
+               </member>
+               <member bioguideId="B000410">
+                  <name>Berman, Howard L.</name>
+                  <state>California</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/b000410_200.jpg</image_url>
+                  <period from="1983" to="2013"/>
+               </member>
+               <member bioguideId="B000403">
+                  <name>Bereuter, Doug</name>
+                  <state>Nebraska</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/b000403_200.jpg</image_url>
+                  <period from="1979" to="2004"/>
+               </member>
+               <member bioguideId="N000032">
+                  <name>Nelson, Bill</name>
+                  <state>Florida</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/n000032_200.jpg</image_url>
+                  <period from="1979" to="1991"/>
+               </member>
+               <member bioguideId="N000016">
+                  <name>Neal, Stephen L.</name>
+                  <state>North Carolina</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/n000016_200.jpg</image_url>
+                  <period from="1975" to="1995"/>
+               </member>
+               <member bioguideId="N000009">
+                  <name>Natcher, William H.</name>
+                  <state>Kentucky</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/n000009_200.jpg</image_url>
+                  <period from="1953" to="1995"/>
+               </member>
+               <member bioguideId="N000003">
+                  <name>Nagle, Dave R,</name>
+                  <state>Iowa</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/n000003_200.jpg</image_url>
+                  <period from="1987" to="1993"/>
+               </member>
+               <member bioguideId="M001130">
+                  <name>Myers, John T.</name>
+                  <state>Indiana</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/m001130_200.jpg</image_url>
+                  <period from="1967" to="1997"/>
+               </member>
+               <member bioguideId="M001057">
+                  <name>Mrazek, Robert J.</name>
+                  <state>New York</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/m001057_200.jpg</image_url>
+                  <period from="1983" to="1993"/>
+               </member>
+               <member bioguideId="M000999">
+                  <name>Morrison, Sid</name>
+                  <state>Washington</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/m000999_200.jpg</image_url>
+                  <period from="1981" to="1993"/>
+               </member>
+               <member bioguideId="M000992">
+                  <name>Morrison, Bruce A.</name>
+                  <state>Connecticut</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/m000992_200.jpg</image_url>
+                  <period from="1983" to="1991"/>
+               </member>
+               <member bioguideId="M000941">
+                  <name>Morella, Constance A.</name>
+                  <state>Maryland</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/m000941_200.jpg</image_url>
+                  <period from="1987" to="2003"/>
+               </member>
+               <member bioguideId="M000926">
+                  <name>Moorhead, Carlos J.</name>
+                  <state>California</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/m000926_200.jpg</image_url>
+                  <period from="1973" to="1997"/>
+               </member>
+               <member bioguideId="M000881">
+                  <name>Moody, Jim</name>
+                  <state>Wisconsin</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/m000881_200.jpg</image_url>
+                  <period from="1983" to="1993"/>
+               </member>
+               <member bioguideId="M000865">
+                  <name>Montgomery, G. V. (Sonny)</name>
+                  <state>Mississippi</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/m000865_200.jpg</image_url>
+                  <period from="1967" to="1997"/>
+               </member>
+               <member bioguideId="M000844">
+                  <name>Mollohan, Alan B.</name>
+                  <state>West Virginia</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/m000844_200.jpg</image_url>
+                  <period from="1983" to="2011"/>
+               </member>
+               <member bioguideId="M000842">
+                  <name>Molinari, Guy</name>
+                  <state>New York</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/m000842_200.jpg</image_url>
+                  <period from="1981" to="1991"/>
+               </member>
+               <member bioguideId="M000834">
+                  <name>Moakley, John Joseph</name>
+                  <state>Massachusetts</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/m000834_200.jpg</image_url>
+                  <period from="1973" to="2001"/>
+               </member>
+               <member bioguideId="M000794">
+                  <name>Mineta, Norman Y.</name>
+                  <state>California</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/m000794_200.jpg</image_url>
+                  <period from="1975" to="1997"/>
+               </member>
+               <member bioguideId="M000736">
+                  <name>Miller, John R.</name>
+                  <state>Washington</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/m000736_200.jpg</image_url>
+                  <period from="1985" to="1993"/>
+               </member>
+               <member bioguideId="M000725">
+                  <name>Miller, George</name>
+                  <state>California</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/m000725_200.jpg</image_url>
+                  <period from="1975" to="2015"/>
+               </member>
+               <member bioguideId="M000718">
+                  <name>Miller, Clarence E.</name>
+                  <state>Ohio</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/m000718_200.jpg</image_url>
+                  <period from="1967" to="1993"/>
+               </member>
+               <member bioguideId="M000702">
+                  <name>Mikulski, Barbara A.</name>
+                  <state>Maryland</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/m000702_200.jpg</image_url>
+                  <period from="1977" to="1987"/>
+               </member>
+               <member bioguideId="M000692">
+                  <name>Michel, Robert H.</name>
+                  <state>Illinois</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/m000692_200.jpg</image_url>
+                  <period from="1957" to="1995"/>
+               </member>
+               <member bioguideId="M000688">
+                  <name>Mica, Daniel Andrew</name>
+                  <state>Florida</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/m000688_200.jpg</image_url>
+                  <period from="1979" to="1989"/>
+               </member>
+               <member bioguideId="M000684">
+                  <name>Meyers, Jan</name>
+                  <state>Kansas</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/m000684_200.jpg</image_url>
+                  <period from="1985" to="1997"/>
+               </member>
+               <member bioguideId="M000635">
+                  <name>Melcher, John</name>
+                  <state>Montana</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/m000635_200.jpg</image_url>
+                  <period from="1969" to="1977"/>
+               </member>
+               <member bioguideId="M000573">
+                  <name>McMillen, Thomas</name>
+                  <state>Maryland</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/m000573_200.jpg</image_url>
+                  <period from="1987" to="1993"/>
+               </member>
+               <member bioguideId="M000566">
+                  <name>McMillan, J. Alex</name>
+                  <state>North Carolina</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/m000566_200.jpg</image_url>
+                  <period from="1985" to="1995"/>
+               </member>
+               <member bioguideId="M000527">
+                  <name>McKinney, Stewart B.</name>
+                  <state>Connecticut</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/m000527_200.jpg</image_url>
+                  <period from="1971" to="1989"/>
+               </member>
+               <member bioguideId="M000473">
+                  <name>McHugh, Matthew F.</name>
+                  <state>New York</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/m000473_200.jpg</image_url>
+                  <period from="1975" to="1993"/>
+               </member>
+               <member bioguideId="M000458">
+                  <name>McGrath, Raymond J.</name>
+                  <state>New York</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/m000458_200.jpg</image_url>
+                  <period from="1981" to="1993"/>
+               </member>
+               <member bioguideId="M000432">
+                  <name>McEwen, Bob</name>
+                  <state>Ohio</state>
+                  <party>Republican</party>
+                  <image_url/>
+                  <period from="1981" to="1993"/>
+               </member>
+               <member bioguideId="M000399">
+                  <name>McDade, Joseph M.</name>
+                  <state>Pennsylvania</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/m000399_200.jpg</image_url>
+                  <period from="1963" to="1999"/>
+               </member>
+               <member bioguideId="M000398">
+                  <name>McCurdy, Dave</name>
+                  <state>Oklahoma</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/m000398_200.jpg</image_url>
+                  <period from="1981" to="1995"/>
+               </member>
+               <member bioguideId="M000388">
+                  <name>McCrery, Jim</name>
+                  <state>Louisiana</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/m000388_200.jpg</image_url>
+                  <period from="1987" to="2011"/>
+               </member>
+               <member bioguideId="M000350">
+                  <name>McCollum, Bill</name>
+                  <state>Florida</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/m000350_200.jpg</image_url>
+                  <period from="1981" to="2001"/>
+               </member>
+               <member bioguideId="M000342">
+                  <name>McCloskey, Frank</name>
+                  <state>Indiana</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/m000342_200.jpg</image_url>
+                  <period from="1983" to="1995"/>
+               </member>
+               <member bioguideId="M000306">
+                  <name>McCandless, Alfred A. (Al)</name>
+                  <state>California</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/m000306_200.jpg</image_url>
+                  <period from="1983" to="1995"/>
+               </member>
+            </members>
+            <!-- Lista de sesiones de la Cámara -->
+            <sessions>
+               <session>
+                  <number>1</number>
+                  <type>R</type>
+                  <period from="1987-01-06" to="1987-12-22"/>
+               </session>
+               <session>
+                  <number>2</number>
+                  <type>R</type>
+                  <period from="1988-01-25" to="1988-10-22"/>
+               </session>
+            </sessions>
+         </chamber>
+         <chamber>
+            <name>Senate</name>
+            <!-- Lista de miembros de la Cámara -->
+            <members>
+               <member bioguideId="W000779">
+                  <name>Wyden, Ron</name>
+                  <state>Oregon</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/w000779_200.jpg</image_url>
+                  <period from="1996" to=""/>
+               </member>
+               <member bioguideId="S000148">
+                  <name>Schumer, Charles E.</name>
+                  <state>New York</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/s000148_200.jpg</image_url>
+                  <period from="1999" to=""/>
+               </member>
+               <member bioguideId="M000133">
+                  <name>Markey, Edward J.</name>
+                  <state>Massachusetts</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/m000133_200.jpg</image_url>
+                  <period from="2013" to=""/>
+               </member>
+               <member bioguideId="M000355">
+                  <name>McConnell, Mitch</name>
+                  <state>Kentucky</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/m000355_200.jpg</image_url>
+                  <period from="1985" to=""/>
+               </member>
+               <member bioguideId="G000386">
+                  <name>Grassley, Chuck</name>
+                  <state>Iowa</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/g000386_200.jpg</image_url>
+                  <period from="1981" to=""/>
+               </member>
+               <member bioguideId="D000563">
+                  <name>Durbin, Richard J.</name>
+                  <state>Illinois</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/d000563_200.jpg</image_url>
+                  <period from="1997" to=""/>
+               </member>
+               <member bioguideId="C000174">
+                  <name>Carper, Thomas R.</name>
+                  <state>Delaware</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/c000174_200.jpg</image_url>
+                  <period from="2001" to=""/>
+               </member>
+               <member bioguideId="C000141">
+                  <name>Cardin, Benjamin L.</name>
+                  <state>Maryland</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/c000141_200.jpg</image_url>
+                  <period from="2007" to=""/>
+               </member>
+               <member bioguideId="J000177">
+                  <name>Johnson, Tim</name>
+                  <state>South Dakota</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/j000177_200.jpg</image_url>
+                  <period from="1997" to="2015"/>
+               </member>
+               <member bioguideId="E000236">
+                  <name>Evans, Daniel J.</name>
+                  <state>Washington</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/e000236_200.jpg</image_url>
+                  <period from="1983" to="1989"/>
+               </member>
+               <member bioguideId="S000068">
+                  <name>Sasser, Jim</name>
+                  <state>Tennessee</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/s000068_200.jpg</image_url>
+                  <period from="1977" to="1995"/>
+               </member>
+               <member bioguideId="S001138">
+                  <name>Symms, Steven D.</name>
+                  <state>Idaho</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/s001138_200.jpg</image_url>
+                  <period from="1981" to="1993"/>
+               </member>
+               <member bioguideId="I000024">
+                  <name>Inhofe, James M.</name>
+                  <state>Oklahoma</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/i000024_200.jpg</image_url>
+                  <period from="1994" to="2023"/>
+               </member>
+               <member bioguideId="P000556">
+                  <name>Pryor, David H.</name>
+                  <state>Arkansas</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/p000556_200.jpg</image_url>
+                  <period from="1979" to="1997"/>
+               </member>
+               <member bioguideId="G000352">
+                  <name>Graham, Bob</name>
+                  <state>Florida</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/g000352_200.jpg</image_url>
+                  <period from="1987" to="2005"/>
+               </member>
+               <member bioguideId="D000566">
+                  <name>Durenberger, Dave</name>
+                  <state>Minnesota</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/d000566_200.jpg</image_url>
+                  <period from="1977" to="1995"/>
+               </member>
+               <member bioguideId="W000253">
+                  <name>Weicker, Lowell P., Jr.</name>
+                  <state>Connecticut</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/w000253_200.jpg</image_url>
+                  <period from="1973" to="1989"/>
+               </member>
+               <member bioguideId="S000320">
+                  <name>Shelby, Richard C.</name>
+                  <state>Alabama</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/s000320_200.jpg</image_url>
+                  <period from="1987" to="2023"/>
+               </member>
+               <member bioguideId="L000174">
+                  <name>Leahy, Patrick J.</name>
+                  <state>Vermont</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/l000174_200.jpg</image_url>
+                  <period from="1975" to="2023"/>
+               </member>
+               <member bioguideId="T000254">
+                  <name>Thurmond, Strom</name>
+                  <state>South Carolina</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/t000254_200.jpg</image_url>
+                  <period from="1953" to="2003"/>
+               </member>
+               <member bioguideId="D000294">
+                  <name>DeWine, Mike</name>
+                  <state>Ohio</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/d000294_200.jpg</image_url>
+                  <period from="1995" to="2007"/>
+               </member>
+               <member bioguideId="D000064">
+                  <name>Daschle, Thomas A.</name>
+                  <state>South Dakota</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/d000064_200.jpg</image_url>
+                  <period from="1987" to="2005"/>
+               </member>
+               <member bioguideId="R000146">
+                  <name>Reid, Harry</name>
+                  <state>Nevada</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/r000146_200.jpg</image_url>
+                  <period from="1987" to="2017"/>
+               </member>
+               <member bioguideId="Q000007">
+                  <name>Quayle, Dan</name>
+                  <state>Indiana</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/q000007_200.jpg</image_url>
+                  <period from="1981" to="1991"/>
+               </member>
+               <member bioguideId="P000513">
+                  <name>Pressler, Larry</name>
+                  <state>South Dakota</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/p000513_200.jpg</image_url>
+                  <period from="1979" to="1997"/>
+               </member>
+               <member bioguideId="P000218">
+                  <name>Pepper, Claude</name>
+                  <state>Florida</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/p000218_200.jpg</image_url>
+                  <period from="1935" to="1951"/>
+               </member>
+               <member bioguideId="Z000013">
+                  <name>Zorinsky, Edward</name>
+                  <state>Nebraska</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/z000013_200.jpg</image_url>
+                  <period from="1977" to="1989"/>
+               </member>
+               <member bioguideId="W000607">
+                  <name>Wilson, Pete</name>
+                  <state>California</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/w000607_200.jpg</image_url>
+                  <period from="1983" to="1993"/>
+               </member>
+               <member bioguideId="W000092">
+                  <name>Wallop, Malcolm</name>
+                  <state>Wyoming</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/w000092_200.jpg</image_url>
+                  <period from="1977" to="1995"/>
+               </member>
+               <member bioguideId="B000401">
+                  <name>Bentsen, Lloyd M.</name>
+                  <state>Texas</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/b000401_200.jpg</image_url>
+                  <period from="1971" to="1993"/>
+               </member>
+               <member bioguideId="W000647">
+                  <name>Wirth, Timothy</name>
+                  <state>Colorado</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/w000647_200.jpg</image_url>
+                  <period from="1987" to="1993"/>
+               </member>
+               <member bioguideId="T000367">
+                  <name>Trible, Paul S., Jr.</name>
+                  <state>Virginia</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/t000367_200.jpg</image_url>
+                  <period from="1983" to="1989"/>
+               </member>
+               <member bioguideId="T000317">
+                  <name>Torricelli, Robert G.</name>
+                  <state>New Jersey</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/t000317_200.jpg</image_url>
+                  <period from="1997" to="2003"/>
+               </member>
+               <member bioguideId="S000663">
+                  <name>Snowe, Olympia J.</name>
+                  <state>Maine</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/s000663_200.jpg</image_url>
+                  <period from="1995" to="2013"/>
+               </member>
+               <member bioguideId="S000606">
+                  <name>Smith, Bob</name>
+                  <state>New Hampshire</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/s000606_200.jpg</image_url>
+                  <period from="1991" to="2003"/>
+               </member>
+               <member bioguideId="S000423">
+                  <name>Simon, Paul</name>
+                  <state>Illinois</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/s000423_200.jpg</image_url>
+                  <period from="1985" to="1997"/>
+               </member>
+               <member bioguideId="S000064">
+                  <name>Sarbanes, Paul S.</name>
+                  <state>Maryland</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/s000064_200.jpg</image_url>
+                  <period from="1977" to="2007"/>
+               </member>
+               <member bioguideId="R000307">
+                  <name>Roberts, Pat</name>
+                  <state>Kansas</state>
+                  <party>Republican</party>
+                  <image_url>https://www.congress.gov/img/member/r000307_200.jpg</image_url>
+                  <period from="1997" to="2021"/>
+               </member>
+               <member bioguideId="R000249">
+                  <name>Riegle, Donald W., Jr.</name>
+                  <state>Michigan</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/r000249_200.jpg</image_url>
+                  <period from="1977" to="1995"/>
+               </member>
+               <member bioguideId="B000780">
+                  <name>Breaux, John B.</name>
+                  <state>Louisiana</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/b000780_200.jpg</image_url>
+                  <period from="1987" to="2005"/>
+               </member>
+               <member bioguideId="B000711">
+                  <name>Boxer, Barbara</name>
+                  <state>California</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/b000711_200.jpg</image_url>
+                  <period from="1993" to="2017"/>
+               </member>
+               <member bioguideId="N000032">
+                  <name>Nelson, Bill</name>
+                  <state>Florida</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/n000032_200.jpg</image_url>
+                  <period from="2001" to="2019"/>
+               </member>
+               <member bioguideId="M000702">
+                  <name>Mikulski, Barbara A.</name>
+                  <state>Maryland</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/m000702_200.jpg</image_url>
+                  <period from="1987" to="2017"/>
+               </member>
+               <member bioguideId="M000635">
+                  <name>Melcher, John</name>
+                  <state>Montana</state>
+                  <party>Democratic</party>
+                  <image_url>https://www.congress.gov/img/member/m000635_200.jpg</image_url>
+                  <period from="1977" to="1989"/>
+               </member>
+            </members>
+            <!-- Lista de sesiones de la Cámara -->
+            <sessions>
+               <session>
+                  <number>1</number>
+                  <type>R</type>
+                  <period from="1987-01-06" to="1987-12-22"/>
+               </session>
+               <session>
+                  <number>2</number>
+                  <type>R</type>
+                  <period from="1988-01-25" to="1988-10-22"/>
+               </session>
+            </sessions>
+         </chamber>
+      </chambers>
+   </congress>
+</data>
