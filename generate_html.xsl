@@ -23,7 +23,7 @@
                                 <td>
                                     <img height="50" width="50">
                                         <xsl:attribute name="src">
-                                            <xsl:value-of select="image"/>
+                                            <xsl:value-of select="image_url"/>
                                         </xsl:attribute>
                                     </img>
                                 </td>
