@@ -1,5 +1,4 @@
 #!/bin/bash
-# aux_functions.sh
 
 check_congress_range() {
     # Verificar que el número de congreso esté en el rango 1-118
@@ -33,7 +32,7 @@ create_error_file(){
     echo "<?xml version=\"1.0\" encoding=\"UTF-8\"?>
     <data xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"
        xsi:noNamespaceSchemaLocation=\"congress_data.xsd\">
-       <error>${1}</error>
+       ${1}
     </data>" > congress_data.xml
 
     # Generar también un archivo HTML con el mensaje de error
