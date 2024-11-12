@@ -1,4 +1,4 @@
-#!/bin/bash
+#/!/bin/bash
 
 # Verificar que se haya proporcionado un número de congreso como parámetro
 if [ -z "$1" ]; then
