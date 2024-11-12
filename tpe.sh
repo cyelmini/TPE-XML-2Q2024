@@ -1,4 +1,4 @@
-#!/bin/bash
+#/!/bin/bash
 source aux_functions.sh
 
 # Verificar que la API KEY esté definida

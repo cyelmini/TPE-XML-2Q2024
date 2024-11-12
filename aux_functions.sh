@@ -1,4 +1,4 @@
-#!/bin/bash
+#/!/bin/bash
 
 check_congress_range() {
     # Verificar que el número de congreso esté en el rango 1-118
