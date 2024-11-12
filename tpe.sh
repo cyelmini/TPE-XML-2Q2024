@@ -1,71 +1,74 @@
-#/!/bin/bash
+#!/bin/bash
+# tpe.sh
 
-# Verificar que se haya proporcionado un número de congreso como parámetro
-if [ -z "$1" ]; then
-  echo "Usage: $0 <congress_number>"
-  echo "Please provide the congress number as a parameter."
-  exit 1
-fi
+echo "Trabajo práctico especial - Diseño y procesamiento de documentos XML - Congreso de EE.UU."
+echo "Iniciando..."
+source aux_functions.sh
 
-# Número de congreso proporcionado como primer argumento
-CONGRESS_NUMBER="$1"
-
-# Verificar que la variable de entorno CONGRESS_API esté definida
+# Verificar que la API KEY esté definida
 if [ -z "$CONGRESS_API" ]; then
-  echo "Error: The environment variable CONGRESS_API is not set."
-  echo "Please set the API key with: export CONGRESS_API='<your_api_key>'"
-  exit 1
+    echo '¡Error! La clave de la API no está definida.'
+    ERROR='<error>API KEY not defined.</error>'
+    create_error_file "$ERROR" "1"
 fi
 
-# Archivos de salida
-OUTPUT_XML="congress_data.xml"
-OUTPUT_HTML="congress_page.html"
-
-# Paso 1: Obtener congress_info.xml desde la API
-echo "Fetching congress_info.xml from Congress.gov API..."
-curl -X GET "https://api.congress.gov/v3/congress/${CONGRESS_NUMBER}?format=xml&api_key=${CONGRESS_API}" \
-     -H "accept: application/xml" -o congress_info.xml
-
-if [[ $? -ne 0 ]]; then
-  echo "Error: Failed to fetch congress_info.xml."
-  exit 1
+# Verificar que se proporcionó el número de congreso como argumento
+if [ $# -ne 1 ]; then
+    echo "¡Cantidad de argumentos inválida! Por favor ingrese únicamente el número de congreso."
+    ERROR='<error>Invalid number of arguments.</error>'
+    create_error_file "$ERROR" "2"
 fi
 
-echo "Archivo congress_info.xml obtenido correctamente."
+# Definir la variable del número de congreso
+CONGRESS_NUMBER=$1
 
-# Paso 2: Obtener congress_members_info.xml desde la API
-echo "Fetching congress_members_info.xml from Congress.gov API..."
-curl -X GET "https://api.congress.gov/v3/member/congress/${CONGRESS_NUMBER}?format=xml&currentMember=false&limit=500&api_key=${CONGRESS_API}" \
-     -H "accept: application/xml" -o congress_members_info.xml
-
-if [[ $? -ne 0 ]]; then
-  echo "Error: Failed to fetch congress_members_info.xml."
-  exit 1
+# Validar que el número de congreso esté en el rango 1-118
+check_congress_range "$CONGRESS_NUMBER"
+if [ $? -ne 0 ]; then
+    echo "¡Número de congreso fuera de rango! Debe estar entre 1 y 118."
+    ERROR='<error>Congress number out of range (1-118).</error>'
+    create_error_file "$ERROR" "3"
 fi
 
-echo "Archivo congress_members_info.xml obtenido correctamente."
+# Descargar los archivos XML necesarios
+echo "Descargando archivos de Congress.gov API..."
+URL_INFO="https://api.congress.gov/v3/congress/${CONGRESS_NUMBER}?format=xml&api_key=${CONGRESS_API}"
+URL_MEMBERS="https://api.congress.gov/v3/member/congress/${CONGRESS_NUMBER}?format=xml&currentMember=false&limit=500&api_key=${CONGRESS_API}"
 
-# Paso 3: Ejecutar la consulta XQuery para generar el archivo XML
-echo "Ejecutando XQuery para generar $OUTPUT_XML..."
-java net.sf.saxon.Query -q:extract_congress_data.xq -o:"$OUTPUT_XML" congressNumber="$CONGRESS_NUMBER"
-
-if [[ $? -ne 0 ]]; then
-  echo "Error: La ejecución de XQuery falló."
-  exit 1
+download_file "congress_info.xml" "$URL_INFO"
+if [ $? -ne 0 ]; then
+    echo "¡Error al descargar congress_info.xml!"
+    ERROR='<error>Failed to download congress_info.xml</error>'
+    create_error_file "$ERROR" "4"
 fi
 
-echo "Archivo $OUTPUT_XML generado correctamente."
-
-# Paso 4: Ejecutar la transformación XSLT para generar el archivo HTML
-echo "Ejecutando XSLT para generar $OUTPUT_HTML..."
-java net.sf.saxon.Transform -s:"$OUTPUT_XML" -xsl:generate_html.xsl -o:"$OUTPUT_HTML"
-
-if [[ $? -ne 0 ]]; then
-  echo "Error: La ejecución de XSLT falló."
-  exit 1
+download_file "congress_members_info.xml" "$URL_MEMBERS"
+if [ $? -ne 0 ]; then
+    echo "¡Error al descargar congress_members_info.xml!"
+    ERROR='<error>Failed to download congress_members_info.xml</error>'
+    create_error_file "$ERROR" "5"
 fi
 
-echo "Archivo $OUTPUT_HTML generado correctamente."
+# Extraer el rango de fechas del congreso
+START_YEAR=$(xmllint --xpath 'string(/api-root/congress/startYear)' congress_info.xml)
+END_YEAR=$(xmllint --xpath 'string(/api-root/congress/endYear)' congress_info.xml)
 
-# Mensaje final
-echo "Proceso completado. Revisa $OUTPUT_HTML para ver el resultado en formato HTML."
+# Ejecutar el XQuery para generar el archivo XML
+echo "Ejecutando XQuery para procesar los datos..."
+query "extract_congress_data.xq" "congress_data.xml" "$CONGRESS_NUMBER"
+if [ $? -ne 0 ]; then
+    echo "¡Error al ejecutar XQuery!"
+    ERROR='<error>Failed to execute XQuery</error>'
+    create_error_file "$ERROR" "6"
+fi
+
+# Ejecutar la transformación XSLT para generar el archivo HTML
+echo "Generando archivo HTML..."
+generate_html "congress_data.xml" "generate_html.xsl" "congress_page.html"
+if [ $? -ne 0 ]; then
+    echo "¡Error al generar HTML!"
+    ERROR='<error>Failed to generate HTML</error>'
+    create_error_file "$ERROR" "7"
+fi
+
+echo "Proceso completado. Revisa congress_page.html para ver el resultado."
