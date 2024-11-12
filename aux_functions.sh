@@ -30,7 +30,8 @@ generate_html() {
 
 create_error_file(){
     # Se crea el archivo de error XML con el esquema correspondiente
-    echo "<data xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"
+    echo "<?xml version=\"1.0\" encoding=\"UTF-8\"?>
+    <data xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"
        xsi:noNamespaceSchemaLocation=\"congress_data.xsd\">
        <error>${1}</error>
     </data>" > congress_data.xml
@@ -41,6 +42,7 @@ create_error_file(){
     # Finalizar el script con el código de error proporcionado
     exit ${2}
 }
+
 
 
 
