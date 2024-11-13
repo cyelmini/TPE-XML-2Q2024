@@ -26,13 +26,8 @@ Este proyecto automatiza la descarga y el procesamiento de datos del Congreso de
   - Descarga archivos desde la API de Congress.gov y ejecuta el archivo XQuery.
   - Genera el archivo HTML final y maneja los errores si ocurren.
 
-- **`aux_functions.sh`**: Contiene funciones auxiliares reutilizables que organizan el flujo en `tpe.sh`, incluyendo:
-  - `remove_namespace`: Elimina namespaces específicos de los archivos XML descargados, simplificando el procesamiento.
-  - `check_range`: Verifica que el año proporcionado esté dentro del rango permitido.
-  - `create_error_file`: Genera archivos de error en XML y HTML si ocurre un problema.
-  - `download_file`: Maneja la descarga de archivos XML desde URLs especificadas.
-  - `clean_prev`: Limpia archivos de ejecuciones anteriores para evitar conflictos.
-
+- **`aux_functions.sh`**: Contiene funciones auxiliares reutilizables que organizan el flujo en `tpe.sh`.
+  
 ## Requisitos
 - **Clave de API**: Es necesario exportar la clave de la API de Congress.gov como una variable de entorno `CONGRESS_API` antes de ejecutar el script.
 - **Java**: Para ejecutar XQuery y las transformaciones XSLT.
